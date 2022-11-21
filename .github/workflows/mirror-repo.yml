@@ -19,8 +19,60 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - uses: yesolutions/mirror-action@master
+      - id: mirror-1
+        uses: yesolutions/mirror-action@master
+        continue-on-error: true
         with:
           REMOTE: ${{ inputs.GITLAB_URL }}
           GIT_USERNAME: ${{ secrets.GITLAB_USER }}
           GIT_PASSWORD: ${{ secrets.GITLAB_PASSWORD }}
+      
+      - run: sleep 15s
+        shell: bash  
+        if: ${{ steps.mirror-1.outcome == 'failure' }}  
+          
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+        if: ${{ steps.mirror-1.outcome == 'failure' }}
+      - id: mirror-2
+        uses: yesolutions/mirror-action@master
+        continue-on-error: true
+        with:
+          REMOTE: ${{ inputs.GITLAB_URL }}
+          GIT_USERNAME: ${{ secrets.GITLAB_USER }}
+          GIT_PASSWORD: ${{ secrets.GITLAB_PASSWORD }}
+        if: ${{ steps.mirror-1.outcome == 'failure' }}
+          
+      - run: sleep 15s
+        shell: bash    
+        if: ${{ steps.mirror-2.outcome == 'failure' }}
+          
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+        if: ${{ steps.mirror-2.outcome == 'failure' }}
+      - id: mirror-3
+        uses: yesolutions/mirror-action@master
+        continue-on-error: true
+        with:
+          REMOTE: ${{ inputs.GITLAB_URL }}
+          GIT_USERNAME: ${{ secrets.GITLAB_USER }}
+          GIT_PASSWORD: ${{ secrets.GITLAB_PASSWORD }}
+        if: ${{ steps.mirror-2.outcome == 'failure' }}
+        
+      - run: sleep 15s
+        shell: bash    
+        if: ${{ steps.mirror-3.outcome == 'failure' }}
+          
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+        if: ${{ steps.mirror-3.outcome == 'failure' }}
+      - id: mirror-4
+        uses: yesolutions/mirror-action@master
+        with:
+          REMOTE: ${{ inputs.GITLAB_URL }}
+          GIT_USERNAME: ${{ secrets.GITLAB_USER }}
+          GIT_PASSWORD: ${{ secrets.GITLAB_PASSWORD }}
+        if: ${{ steps.mirror-3.outcome == 'failure' }}
