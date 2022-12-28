@@ -37,3 +37,5 @@ Every push to the repo will trigger this action, it will automatically synchroni
 PRs, issues and wikis will NOT be mirrored.
 
 If you import the repo from GitHub through the UI, issues and PRs will get cloned as well, but all further changes will not be synchronized for them.
+
+Users must have the `Maintainer` role to be able to work with the repo on GitLab.
