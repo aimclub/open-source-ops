@@ -3,7 +3,7 @@
 This repo contains a reusable Github Actions [workflow](/.github/workflows/mirror-repo.yml) that mirrors the current repo to GitLab.
 
 To use it for mirroring a new repo:
-- Create a new corresponding project in GitLab under [ITMO-NSS-team](https://gitlab.actcognitive.org/itmo-nss-team)
+- Create a new corresponding project in GitLab under `<your-group-name>` (i.e. for NSS Lab it's [ITMO-NSS-team](https://gitlab.actcognitive.org/itmo-nss-team))
 
 - Either import the project from GitHub in the UI or create a blank project and manually clone the repo from GitHub:
 ```
