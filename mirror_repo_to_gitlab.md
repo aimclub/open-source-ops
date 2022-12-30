@@ -1,20 +1,37 @@
-# Mirror repo to GitLab
+# Настройка зеркала репозитория с GitHub на GitLab
 
-This repo contains a reusable Github Actions [workflow](/.github/workflows/mirror-repo.yml) that mirrors the current repo to GitLab.
+В этом репозитории хранится Github Actions [workflow](/.github/workflows/mirror-repo.yml), 
+который поддерживает зеркало GitHub репозитория на GitLab.
 
-To use it for mirroring a new repo:
-- Create a new corresponding project in GitLab under `<your-group-name>` (i.e. for NSS Lab it's [ITMO-NSS-team](https://gitlab.actcognitive.org/itmo-nss-team))
+Как использовать [workflow](/.github/workflows/mirror-repo.yml), чтобы настроить зеркало для вашего репозитория:
 
-- Either import the project from GitHub in the UI or create a blank project and manually clone the repo from GitHub:
-```
-git clone --mirror <github_repo_web_URL>
-cd <repo_name>.git
-git push --mirror <gitlab_repo_web_URL>
-```
+- Убедитесь, что у вашего пользователя статус `Maintainer` или `Owner` на уровне группы. 
+  Если нет, попросите администратора изменить статус.
 
-- Set secrets `GITLAB_USER` and `GITLAB_PASSWORD` in your GitHub repo (this is required only for private repos)
+- Импортируйте проект на GitLab:
+  - Перейдите на https://gitlab.actcognitive.org/
+  - В правом верхнем углу нажмите на `New project`
+  - Выберите `Import project`
+  - Выберите `GitHub`
+  - Найдите в списке ваш проект
+  - Задайте рядом с ним вашу группу на GitLab (для проектов NSS Lab используйте [ITMO-NSS-team](https://gitlab.actcognitive.org/itmo-nss-team))
+    ![alt text](/images/gitlab_group.jpg)
+  - Нажмите `Import`
 
-- In the GitHub repo create `.github/workflows/mirror_repo_to_gitlab.yml` with the following content:
+- Уберите ветку main из списка защищённых:
+  - На GitLab откройте ваш проект
+  - Откройте `Settings` => `Repository`
+  - В разделе `Protected branches` найдите в списке ветку `main` и нажмите `Unprotect`
+
+- Задайте секреты `GITLAB_USER` и `GITLAB_PASSWORD` в вашем репозитории на GitHub.
+  Если у вас несколько открытых репозиториев внутри одной организации, можно задать секреты на уровне организации,
+  тогда все открытые репозитории их унаследуют. Для приватных всегда секреты надо задавать на уровне репозитория.
+  - Откройте ваш репозиторий/организацию
+  - Откройте раздел `Settings`
+  - Слева выберите `Security` => `Secrets` => `Actions`
+  - Создайте секреты 
+
+- В репо на GitHub создайте файл `/.github/workflows/mirror_repo_to_gitlab.yml` с таким содержанием:
 ```
 name: Mirror repo to GitLab
 
@@ -30,12 +47,15 @@ jobs:
       GITLAB_PASSWORD: ${{ secrets.GITLAB_PASSWORD }}
 ```
 
-- Make sure to set the `GITLAB_URL` var in the yaml file
+- Не забудьте подставить нужное значение в `GITLAB_URL`.
 
- 
-Every push to the repo will trigger this action, it will automatically synchronize commits and branches.
-PRs, issues and wikis will NOT be mirrored.
+- Параметр `uses: ITMO-NSS-team/NSS-Ops/.github/workflows/mirror-repo.yml@master` менять НЕ надо.
 
-If you import the repo from GitHub through the UI, issues and PRs will get cloned as well, but all further changes will not be synchronized for them.
+Каждый push в репозиторий будет автоматически запускать этот action. Все commit-ы и ветки будут синхронизованы автоматически.
+PR-ы, issue и wiki НЕ будут синхронизированы.
 
-Users must have the `Maintainer` role to be able to work with the repo on GitLab.
+При импорте репозитория на GitLab через UI, issue и PR-ы также будут скопированы, 
+но все дальнейшие их изменения НЕ будут синхронизироваться.
+
+
+
