@@ -1,4 +1,4 @@
-# Настройка зеркала репозитория с GitHub на GitLab
+# Зеркалирование GitHub -> GitLab
 
 В этом репозитории хранится Github Actions [workflow](/.github/workflows/mirror-repo.yml), 
 который поддерживает зеркало GitHub репозитория на GitLab.
