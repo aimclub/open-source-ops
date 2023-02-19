@@ -1,6 +1,6 @@
-# Где можно опубликовать научную статью личный или коллективный open-source проект:
+# Где можно опубликовать научную статью личный или коллективный open-source проект?
 
-## В области ИИ:
+## В области ИИ
 ###  [Journal of Machine Learning Research](https://www.jmlr.org/mloss/) (Q1):
    
 В секции "Machine Learning Open Source Software" публикации выходят в формате 4-страничных мини-статей.
@@ -11,13 +11,20 @@
 Исправления производятся в формате revise-and-resubmit.
 При этом замечания выдвигаются не только по научной составляющей, но и, например, по качеству документации.
 
-## Без привязки к области:
+### [Papers With Code](https://paperswithcode.com/):
+
+Автоматический агрегатор статей в области AI/ML со ссылками на GitHub. 
+Критерии ранжирования - тематика (CV, NLP и т.д.) и число звездочек.
+  
+
+## Без привязки к области
 
 ### [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/) (Q2):
 
 Публикует полноразмерные статьи про научные библиотеки с "high reuse potential". 
 Также принимаются статьи про различные аспекты разработки и поддержки разработки открытого научного ПО в целом.
-  
+
+
 ### [Journal of Open Source Software](https://joss.theoj.org/) (без индексации):
 
 Менее формальный, но очень качественно реализованный "developer-friendly" журнал про open-source. 
@@ -25,7 +32,7 @@
 [документации](https://joss.readthedocs.io/en/latest/) для авторов и рецензентов.
 Есть смысл почитать как минимум ради перенимания "хороших практик".
 
-### [SoftwareX](https://www.softxjournal.com/) (Q2):
+### [SoftwareX](https://www.softxjournal.com/) (Q2)
 
 Open-Access журнал, публикующий статьи про научное ПО под открытой лицензией. 
-Под каждую публикацию создается репозиторий в [GitHub-е журнала](https://github.com/ElsevierSoftwareX). 
+Под каждую публикацию создается репозиторий в [GitHub-е журнала](https://github.com/ElsevierSoftwareX).
