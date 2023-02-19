@@ -26,7 +26,7 @@ TBD
 От авторов репозитория:
 
 - [ITMO.Opensource](https://t.me/itmo_opensource) - чат про открытый код в науке;
-- [NSS Lab News](https://t.me/NSS_group) - новости нашей лаборатории;
+- [NSS Lab News](https://t.me/NSS_group) - новости нашей лаборатории.
   
 Внешние:
 
@@ -35,7 +35,7 @@ TBD
 ### Выступления и мастер-классы:
 
 - Open-source meetup №1: [видео](https://aim.club/publications/scientific-open-source-meetup), 
-[презентации](meetups/scios-meetup-1).
+[презентации](meetups/scios-meetup-1);
 
 - Open-source meetup №2: [call for speakers](https://aim.club/publications/scientific-open-source-meetup-2).
 
