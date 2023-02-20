@@ -7,6 +7,26 @@ Name of the project or a logo
     :align: center
     :alt: Your logo
 
+.. start-badges
+.. list-table::
+   :stub-columns: 1
+
+   * - package
+     - | |pypi|
+   * - tests
+     - | |build| |coverage|
+   * - docs
+     - |docs|
+   * - license
+     - | |license|
+   * - stats
+     - | |downloads_stats|
+   * - support
+     - | |tg|
+   * - languages
+     - | |eng| |rus|
+.. end-badges
+
 The purpose of the project
 --------------------------
 Here you can write about what your application can do and what's its goal.
@@ -23,9 +43,7 @@ Core features
 * Feature 2
 * etc.
 
-Applications
-------------
-Describe applications of your project
+
 
 Installation
 ------------
@@ -37,16 +55,61 @@ How users can install your project.
 
   $ pip install name
 
+
+Examples
+------------
+Describe examples how it should work and should be used.
+Images, GIFs and code cells are welcome.
+
+
 Project Structure
-=================
+-----------------
+Stable version is located ...
+
+Repo includes:
+
+* package 1 - explanation
+* package 2 - explanation
+* etc.
+
+Documentation
+-------------
+Link to the documentation
+
+Getting started
+---------------
+Tutorials if any
+
+License
+-------
+Link to the license
 
 Acknowledgments
-===============
+---------------
+
 
 Contacts
-========
+--------
 Your contacts. For example:
 
 - `Telegram channel <https://t.me/>`_ answering questions about your project
 - `VK group <https://vk.com/>`_ your VK group
 - etc.
+
+Citation
+--------
+
+@article{"name",
+  title = {},
+  author = {},
+  journal = {},
+  year = {},
+  issn = {},
+  doi = {}}
+
+Examples of good README's:
+==========================
+
+1. https://github.com/pytorch/pytorch
+2. https://github.com/scikit-learn/scikit-learn
+3. https://github.com/aimclub/FEDOT
