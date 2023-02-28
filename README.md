@@ -13,9 +13,10 @@
 
 TBD
 
-### [Примеры](/best-practices)
+### [Лучшие практики и примеры](/best-practices)
 
-TBD
+- [Организация управления open-source проектом](/best-practices/project-management.md);
+
 
 ### [Открытый код и наука](/science)
 
