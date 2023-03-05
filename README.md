@@ -10,6 +10,7 @@
 - [Зеркалирование GitHub -> GitLab](/tutorials/mirror_repo_to_gitlab.md);
 - [Мультиязычные README](/tutorials/create_multilang_readme_files.md);
 - [Инструкция по настройке ботов (PEP8, codcov)](/tutorials/setup_bots.rst)
+- [Настройка ботов для репозитория](/tutorials/setup_bots.rst).
 
 ### [Шаблоны](/templates)
 
@@ -17,12 +18,17 @@ TBD
 
 ### [Лучшие практики и примеры](/best-practices)
 
-- [Организация управления open-source проектом](/best-practices/project-management.md);
+- [Организация управления open-source проектом](/best-practices/project-management.md).
 
 
 ### [Открытый код и наука](/science)
 
-- [Где опубликовать научную статью про OS-разработку?](/science/journals.md)
+- [Где опубликовать научную статью про OS-разработку?](/science/journals.md).
+
+### [Примеры](/examples)
+
+- [Репозитории научных подразделений и лабораторий](/examples/academic-repositories.md);
+- [Pet-проекты, связанные с наукой](/examples/pet-projects.md).
 
 ### Чаты и каналы:
 
