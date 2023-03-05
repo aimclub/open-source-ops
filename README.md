@@ -24,10 +24,11 @@ TBD
 
 - [Где опубликовать научную статью про OS-разработку?](/science/journals.md).
 
-### [Примеры](/examples)
+### [Открытый код в ИТМО и не только](/examples)
 
 - [Репозитории научных подразделений и лабораторий](/examples/academic-repositories.md);
-- [Pet-проекты, связанные с наукой](/examples/pet-projects.md).
+- [Pet-проекты, связанные с наукой](/examples/pet-projects.md);
+- [Научно-популярные посты о open-source в ИТМО](/examples/itmo-posts.md).
 
 ### Чаты и каналы:
 
