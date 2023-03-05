@@ -74,6 +74,10 @@
 4. Настройте различные параметры защиты, например "Require a pull request before merging", "Require status checks to pass before merging".
 5. Нажмите на кнопку "Create" для сохранения правила защиты.
 
+Также можно установить более строгие настройки PR-ов: 
+в разделе Settings деактивировать "Allow merge commits" и "Allow rebase merging",
+оставив лишь "Allow squash merging" - 
+для обеспечения большей лаконичности master-ветки с помощью склеивания всех коммитов в PR-е в один.
 
 ## 6. Настройте PEP8-бота
 
