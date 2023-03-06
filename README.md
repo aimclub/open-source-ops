@@ -11,7 +11,7 @@
 
 ### [Шаблоны](/templates)
 
-TBD
+- [Шаблон README для open-source проектов](https://github.com/ITMO-NSS-team/open-source-ops/blob/pashtetttt-patch-1/template_README.rst)
 
 ### [Лучшие практики и примеры](/best-practices)
 
