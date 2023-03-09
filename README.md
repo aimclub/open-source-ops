@@ -26,7 +26,7 @@ TBD
 
 От авторов репозитория:
 
-- [ITMO.Opensource](https://t.me/itmo_opensource) - чат про открытый код в науке;
+- [ITMO.Opensource](https://t.me/itmo_opensource) - чат поддержки по созданию open-source проектов;
 - [NSS Lab News](https://t.me/NSS_group) - новости нашей лаборатории.
   
 Внешние:
