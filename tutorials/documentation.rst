@@ -144,7 +144,7 @@
 .. image:: images/file_interaction.png
    :width: 300
 
-На сайте документации в Read The Docs этот файл помимо начальной страницы, которая выглядит `вот так <https://github.com/aimclub/GEFEST/blob/main/docs/source/index.rst>`_, 
+На сайте документации в Read The Docs этот файл, помимо начальной страницы, которая выглядит `вот так <https://github.com/aimclub/GEFEST/blob/main/docs/source/index.rst>`_, 
 создаст еще и иерархию контента:
 
 .. image:: images/doc_structure.png
