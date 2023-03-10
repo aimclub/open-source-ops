@@ -9,7 +9,7 @@
 - [С чего начать разработку open-source библиотеки](/tutorials/quick_guide.md);
 - [Зеркалирование GitHub -> GitLab](/tutorials/mirror_repo_to_gitlab.md);
 - [Мультиязычные README](/tutorials/create_multilang_readme_files.md);
-- [Инструкция по настройке ботов (PEP8, codcov)](/tutorials/setup_bots.rst)
+- [Настройка ботов для репозитория](/tutorials/setup_bots.rst).
 
 ### [Шаблоны](/templates)
 
@@ -20,10 +20,15 @@ TBD
 - [Организация управления open-source проектом](/best-practices/project-management.md);
 - [Полезные ссылки для авторов open-source библиотек](/best-practices/useful_links.md).
 
-
 ### [Открытый код и наука](/science)
 
-- [Где опубликовать научную статью про OS-разработку?](/science/journals.md)
+- [Где опубликовать научную статью про OS-разработку?](/science/journals.md).
+
+### [Открытый код в ИТМО и не только](/examples)
+
+- [Репозитории научных подразделений и лабораторий](/examples/academic-repositories.md);
+- [Pet-проекты, связанные с наукой](/examples/pet-projects.md);
+- [Научно-популярные посты о open-source в ИТМО](/examples/itmo-posts.md).
 
 ### Чаты и каналы:
 
