@@ -9,7 +9,6 @@
 - [С чего начать разработку open-source библиотеки](/tutorials/quick_guide.md);
 - [Зеркалирование GitHub -> GitLab](/tutorials/mirror_repo_to_gitlab.md);
 - [Мультиязычные README](/tutorials/create_multilang_readme_files.md);
-- [Инструкция по настройке ботов (PEP8, codcov)](/tutorials/setup_bots.rst)
 - [Настройка ботов для репозитория](/tutorials/setup_bots.rst).
 
 ### [Шаблоны](/templates)
