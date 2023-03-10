@@ -11,7 +11,7 @@
 - [postmorphoses](https://github.com/andreygetmanov/postmorphoses) - интерактивный экоманифест, основанный на GPT-2. 
 Автор - [Андрей Гетманов](https://github.com/andreygetmanov).
 
-- [Нейродуша киберволка](https://github.com/valer1435/neurosoul-of-cyberwolf) - генерация "мудрых" цитат и картинок волков, основаные на GPT-3 и BigGAN. 
+- [Нейродуша киберволка](https://github.com/valer1435/neurosoul-of-cyberwolf) - генерация "мудрых" цитат и картинок волков, основанные на GPT-3 и BigGAN. 
 Автор - [Валерий Покровский](https://github.com/valer1435).
 
 - [SSGP-toolbox](https://github.com/Dreamlone/SSGP-toolbox) - Модуль для восстановления пропусков в спутниковых снимках.
