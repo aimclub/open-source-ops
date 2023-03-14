@@ -1,8 +1,7 @@
 # Open-source-ops (by NSS Lab).
 
-.. |funding| image:: https://github.com/ITMO-NSS-team/open-source-ops/badges/logo_itmo_nccr.png
-            :target: https://actcognitive.org/
-            :alt: Issues
+
+[![Funding](https://github.com/ITMO-NSS-team/open-source-ops/blob/add_badge/badges/logo_itmo_nccr.png)](https://actcognitive.org/)
 
 
 Этот репозиторий создан для хранения различных инструментов, скриптов, инструкций и руководств, 
