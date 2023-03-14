@@ -5,7 +5,7 @@
 
 Шаблоны
 
-- [Типовый шаблон README для open-source проектов](template_README.rst);
+- [Типовый шаблон README для open-source проектов](templates/template_README.rst).
 
 Для настройки инфраструктуры и CI/CD:
 
