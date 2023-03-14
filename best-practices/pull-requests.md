@@ -1,6 +1,9 @@
 # Исскуство "правильного" Pull Requests-а
 
-О практиках создания правильных Pull Request-ов (PR) и выполнения в них Code Review написано немало. 
+О практиках создания правильных Pull Request-ов (PR) и выполнения в них Code Review написано немало 
+(например: [Making a Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request),
+[Git - Pull request на практике](https://www.youtube.com/watch?v=G_HKJJLozUc)).
+
 В этом руководстве хотелось бы остановиться на некоторых конкретных советах по организации технической стороны процесса:
 
 - Не забывайте давать PR-ам описание. Это экономит время всех участников процесса.
