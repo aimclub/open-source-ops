@@ -2,6 +2,7 @@
 
 
 [![Funding](https://github.com/ITMO-NSS-team/open-source-ops/blob/add_badge/badges/logo_itmo_nccr.png)](https://actcognitive.org/)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 
 Этот репозиторий создан для хранения различных инструментов, скриптов, инструкций и руководств, 
