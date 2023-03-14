@@ -1,20 +1,20 @@
-# Полезные ссылки для менторов и авторов библиотек
+# Полезные ссылки для авторов open-source библиотек
 
 
 ## Написание python-кода 
-[PEP 8 - руководство по написанию кода на Python](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)
+:star: [PEP 8 - руководство по написанию кода на Python](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)
+
+:star: [On writing clean Jupyter notebooks](https://ploomber.io/blog/clean-nbs/ )
+
+:star: [Улучшение Python-кода: 12 советов для начинающих](https://habr.com/ru/company/ruvds/blog/521602/)
 
 [Делай нейминг как сеньор](https://habr.com/ru/company/dododev/blog/714512/)
 
 [Небанальные правила чистого Python. Часть 1](https://habr.com/ru/post/693668/)
 
-[Улучшение Python-кода: 12 советов для начинающих](https://habr.com/ru/company/ruvds/blog/521602/)
-
 [10 предпочтительных методов рефакторинга кода на Python](https://habr.com/ru/post/510294/)
 
 [Груг против сложности. Я пролинтил все посты на Хабре про Python, и вот что я нашёл](https://habr.com/ru/company/breakpoint/blog/686104/)
-
-[On writing clean Jupyter notebooks](https://ploomber.io/blog/clean-nbs/ )
 
 [Best Practices для Python](https://habr.com/ru/post/686122/)
 
@@ -22,7 +22,9 @@
 
 
 ## Практики Code review
-[Code Review – зачем и как использовать в команде?](https://habr.com/ru/post/581354/)
+:star:  [Code Review – зачем и как использовать в команде?](https://habr.com/ru/post/581354/)
+
+:star: [Как проводить код-ревью](https://habr.com/ru/post/467039/)
 
 [Code review по-человечески (часть 1)](https://habr.com/ru/post/340550/)
 
@@ -30,33 +32,38 @@
 
 [Лучшие техники ревью кода](https://habr.com/ru/post/716068/)
 
-[Как проводить код-ревью](https://habr.com/ru/post/467039/)
 
 
 ## Оформление репозитория
+:star: [Как написать прекрасный файл README на GitHub](https://techrocks.ru/2019/04/16/good-readme-on-github/)
+
 [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 
 [Python .gitignore](https://github.com/github/gitignore/blob/main/Python.gitignore)
 
 [Лицензия для вашего open-source проекта](https://habr.com/ru/post/243091/)
 
+[Art of README](https://github.com/hackergrrl/art-of-readme)
+
 
 ## Форматирование кода
-[Скучный Python: повышаем качество кода](https://habr.com/ru/company/otus/blog/713992/)
+:star: [Простые шаги сделать ваш Python код лучше](https://alimbekov.com/beautiful-python-code-simple-steps/)
 
-[Простые шаги сделать ваш Python код лучше](https://alimbekov.com/beautiful-python-code-simple-steps/)
+[Скучный Python: повышаем качество кода](https://habr.com/ru/company/otus/blog/713992/)
 
 [Форматируем код при помощи black](https://semakin.dev/2020/05/black/)
 
 
 ## Комментарии в коде & Документация
-[Docstrings: документирование кода в Python](https://techrocks.ru/2020/07/08/docstrings-in-python)
+:star: [Docstrings: документирование кода в Python](https://techrocks.ru/2020/07/08/docstrings-in-python)
 
 [Правила разработки документации ML-проекта](https://habr.com/ru/post/676716/)
 
 
 ## Работа с github-репозиторием
-[Знакомство с Git и GitHub: руководство для начинающих](https://tinyurl.com/2axva5st)
+:star: [Знакомство с Git и GitHub: руководство для начинающих](https://tinyurl.com/2axva5st)
+
+:star: [Как оформить описание к Pull Request](https://tinyurl.com/4nb8c9jp)
 
 [Сравнение рабочих процессов Git: что нужно знать](https://www.atlassian.com/ru/git/tutorials/comparing-workflows)
 
@@ -66,13 +73,11 @@
 
 [Встроенные pre-commit hooks](https://pre-commit.com/hooks.html)
 
-[Как оформить описание к Pull Request](https://tinyurl.com/4nb8c9jp)
-
 [Автоматизируем все с Github Actions (Никита Соболев)](https://habr.com/ru/post/586632/)
 
 
 ## Тестирование
-[Современный Python: пишем модульные тесты и применяем соглашения о коммитах в Git](https://habr.com/ru/post/645721/)
+:star: [Современный Python: пишем модульные тесты и применяем соглашения о коммитах в Git](https://habr.com/ru/post/645721/)
 
 [Тесты в Python: все основные подходы, плюсы и минусы. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/517266/)
 
@@ -98,7 +103,7 @@
 
 
 ## Contribute в OpenSource
-[Как принять участие в работе Open Source проектов на GitHub. Краткое руководство для начинающих](https://habr.com/ru/post/598587/)
+:star: [Как принять участие в работе Open Source проектов на GitHub. Краткое руководство для начинающих](https://habr.com/ru/post/598587/)
 
 [Как участвовать в опенсорс-проектах](https://opensource.guide/ru/how-to-contribute/)
 
@@ -114,11 +119,8 @@
 
 
 ## Воспроизводимость в ML-проектах
-[Как структурировать проект ML и сделать его воспроизводимым и поддерживаемым](https://habr.com/ru/company/skillfactory/blog/710816/)
+:star: [Как структурировать проект ML и сделать его воспроизводимым и поддерживаемым](https://habr.com/ru/company/skillfactory/blog/710816/)
 
 [Чего хотят конференции: воспроизводимость экспериментов в data science](https://habr.com/ru/post/562262/)
 
 [10 полезных практик для ML-разработчиков на Питоне](https://habr.com/ru/post/505082/)
-
-
-
