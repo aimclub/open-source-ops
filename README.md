@@ -1,9 +1,9 @@
 # Open-source-ops (by NSS Lab).
 
 
-[![Acknowledgement NCCR](https://github.com/ITMO-NSS-team/open-source-ops/blob/add_badge/badges/NCCR_Logo_Badge.svg)](https://actcognitive.org/)
-[![Acknowledgement ITMO](https://github.com/ITMO-NSS-team/open-source-ops/blob/add_badge/badges/ITMO_Logo_Badge.svg)](https://itmo.ru/)
-[![Acknowledgement SAI](https://github.com/ITMO-NSS-team/open-source-ops/blob/add_badge/badges/SAI_Logo_Badge.svg)](https://sai.itmo.ru/)
+[![Acknowledgement NCCR](https://github.com/ITMO-NSS-team/open-source-ops/blob/add_badge/badges/NCCR_Badge.svg)](https://actcognitive.org/)
+[![Acknowledgement ITMO](https://github.com/ITMO-NSS-team/open-source-ops/blob/add_badge/badges/ITMO_Badge.svg)](https://itmo.ru/)
+[![Acknowledgement SAI](https://github.com/ITMO-NSS-team/open-source-ops/blob/add_badge/badges/SAI_Badge.svg)](https://sai.itmo.ru/)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 
