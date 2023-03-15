@@ -41,7 +41,7 @@ on: [push, pull_request, delete]
 
 jobs:
   call-nss-ops-mirror-workflow:
-    uses: ITMO-NSS-team/NSS-Ops/.github/workflows/mirror-repo.yml@master
+    uses: ITMO-NSS-team/open-source-ops/.github/workflows/mirror-repo.yml@master
     with:
       GITLAB_URL: '<gitlab_repo_web_URL>'
     secrets:
