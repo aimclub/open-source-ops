@@ -16,7 +16,7 @@
   - Введите ваш `access token` (его можно сгенерировать по [инструкции](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token), название может быть любым, срок действия обычно выставляют до одного года, среди `scopes` обязательно надо выбрать `repo`)
   - Найдите в списке ваш проект
   - Задайте рядом с ним вашу группу на GitLab (для проектов NSS Lab используйте [ITMO-NSS-team](https://gitlab.actcognitive.org/itmo-nss-team))
-    ![alt text](/images/gitlab_group.jpg)
+    ![alt text](/tutorials/images/gitlab_group.jpg)
   - Нажмите `Import`
 
 - Уберите ветку main из списка защищённых:
@@ -41,7 +41,7 @@ on: [push, pull_request, delete]
 
 jobs:
   call-nss-ops-mirror-workflow:
-    uses: ITMO-NSS-team/NSS-Ops/.github/workflows/mirror-repo.yml@master
+    uses: ITMO-NSS-team/open-source-ops/.github/workflows/mirror-repo.yml@master
     with:
       GITLAB_URL: '<gitlab_repo_web_URL>'
     secrets:
