@@ -21,13 +21,12 @@
 
 ### [Шаблоны](/templates)
 
-TBD
+- [Типовый шаблон README для open-source проектов](templates/template_README.rst).
 
 ### [Лучшие практики и примеры](/best-practices)
 
 - [Организация управления open-source проектом](/best-practices/project-management.md);
 - [Советы по работе в Pull Request-ах](/best-practices/pull-requests.md).
-
 
 ### [Открытый код и наука](/science)
 
