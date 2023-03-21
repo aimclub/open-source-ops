@@ -16,7 +16,7 @@ TBD
 ### [Лучшие практики и примеры](/best-practices)
 
 - [Организация управления open-source проектом](/best-practices/project-management.md);
-- [Полезные ссылки для авторов open-source библиотек](/best-practices/useful_links.md);
+- [Полезные ссылки для авторов open-source библиотек](/best-practices/useful_links.md).
 
 
 ### [Открытый код и наука](/science)
