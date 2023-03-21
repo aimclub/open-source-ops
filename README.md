@@ -27,7 +27,7 @@
 ### [Лучшие практики и примеры](/best-practices)
 
 - [Организация управления open-source проектом](/best-practices/project-management.md);
-- [Полезные ссылки для авторов open-source библиотек](/best-practices/useful_links.md).
+- [Полезные ссылки для авторов open-source библиотек](/best-practices/useful_links.md);
 - [Советы по работе в Pull Request-ах](/best-practices/pull-requests.md).
 
 ### [Открытый код и наука](/science)
