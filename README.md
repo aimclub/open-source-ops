@@ -57,7 +57,7 @@
 [презентации](meetups/scios-meetup-1);
 
 - Open-source meetup №2: [call for speakers](https://aim.club/publications/scientific-open-source-meetup-2),
-[презентации](meetups/scios-meetup-2;
+[презентации](meetups/scios-meetup-2);
 
 
 ### Благодарности:
