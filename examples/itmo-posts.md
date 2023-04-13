@@ -16,10 +16,14 @@
 - [Открытый проект для поиска генов устойчивости к антибиотикам от специалистов Университета ИТМО
 ](https://habr.com/ru/company/spbifmo/blog/578794/).
   
-- [Открытый инструмент для аналитики бизнес-процессов и Process Mining’а](https://habr.com/ru/company/spbifmo/blog/577470/).
+- [Открытый инструмент для аналитики бизнес-процессов и Process Mining’а
+](https://habr.com/ru/company/spbifmo/blog/577470/).
 
 - [Hawk — оpen-source сервис для отслеживания ошибок в приложениях от команды CodeX
 ](https://habr.com/ru/company/spbifmo/blog/657983/).
+
+- [Open-source библиотеки от команд ИТМО: оптимизация графовых структур,генеративный дизайн, оптимизация гиперпараметров
+](https://habr.com/ru/companies/spbifmo/articles/725800/).
 
 ## ITMO.News
 
