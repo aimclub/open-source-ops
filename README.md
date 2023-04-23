@@ -1,4 +1,4 @@
-# Open-source-ops (by NSS Lab)
+# [Open-source-ops (by NSS Lab)](https://aimclub.github.io/open-source-ops/)
 
 [![Acknowledgement NCCR](badges/NCCR_badge.svg)](https://actcognitive.org/)
 [![Acknowledgement ITMO](badges/ITMO_badge_rus.svg)](https://itmo.ru/)
@@ -22,7 +22,7 @@
 
 ### [Шаблоны](/templates)
 
-- [Типовый шаблон README для open-source проектов](templates/template_README.md).
+- [Типовый шаблон README для open-source проектов](templates/template_README.md) (Версия в [RST](templates/template_README.rst) формате).
 
 ### [Лучшие практики и примеры](/best-practices)
 
