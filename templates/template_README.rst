@@ -83,7 +83,6 @@ Core features
 * etc.
 
 
-
 Installation
 ------------
 How users can install your project.
@@ -111,20 +110,25 @@ Repo includes:
 * package 2 - explanation
 * etc.
 
+
 Documentation
 -------------
 Link to the documentation
+
 
 Getting started
 ---------------
 Tutorials if any
 
+
 License
 -------
 Link to the license
 
+
 Acknowledgments
 ---------------
+Acknowledgments
 
 
 Contacts
@@ -134,6 +138,7 @@ Your contacts. For example:
 - `Telegram channel <https://t.me/>`_ answering questions about your project
 - `VK group <https://vk.com/>`_ your VK group
 - etc.
+
 
 Citation
 --------
@@ -147,6 +152,7 @@ Citation
   doi = {}}
 
 bibtex-ссылку удобно брать с google scholar
+
 
 Examples of good README's:
 ==========================
