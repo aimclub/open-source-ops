@@ -1,4 +1,4 @@
-# Open-source-ops (by NSS Lab)
+# [Open-source-ops (by NSS Lab)](https://aimclub.github.io/open-source-ops/)
 
 [![Open-source-ops website](badges/open--source--ops-black.svg)](https://aimclub.github.io/open-source-ops/)
 [![Acknowledgement NCCR](badges/NCCR_badge.svg)](https://actcognitive.org/)
