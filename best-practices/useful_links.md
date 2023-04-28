@@ -77,6 +77,8 @@
 
 
 ## Тестирование
+:star: [Введение в PyTest](https://habr.com/ru/articles/269759/)
+
 :star: [Современный Python: пишем модульные тесты и применяем соглашения о коммитах в Git](https://habr.com/ru/post/645721/)
 
 [Тесты в Python: все основные подходы, плюсы и минусы. Доклад Яндекса](https://habr.com/ru/company/yandex/blog/517266/)
