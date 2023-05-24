@@ -29,7 +29,8 @@
 
 - [Организация управления open-source проектом](/best-practices/project-management.md);
 - [Полезные ссылки для авторов open-source библиотек](/best-practices/useful_links.md);
-- [Советы по работе в Pull Request-ах](/best-practices/pull-requests.md).
+- [Советы по работе в Pull Request-ах](/best-practices/pull-requests.md);
+- [Советы по популяризации репозитория](/best-practices/tips-for-promoting.md).
 
 ### [Открытый код и наука](/science)
 
