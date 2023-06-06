@@ -61,6 +61,9 @@
 - Open-source meetup №2: [видео](https://aim.club/publications/scientific-open-source-meetup-2-otkrytyj-kod-dlja-ii),
 [презентации](meetups/scios-meetup-2);
 
+- Open-source meetup №3: [видео](https://ods.ai/events/datafestonline2023/live),
+[презентации](meetups/scios-meetup-3);
+
 ### Благодарности
 
 Репозиторий и связанные с ним активности финансируются Университетом ИТМО в рамках НИР магистров и аспирантов №622283
