@@ -30,7 +30,8 @@
 - [Организация управления open-source проектом](/best-practices/project-management.md);
 - [Полезные ссылки для авторов open-source библиотек](/best-practices/useful_links.md);
 - [Советы по работе в Pull Request-ах](/best-practices/pull-requests.md);
-- [Антипаттерны Open Source разработки](/best-practices/os-antipatterns.md).
+- [Антипаттерны Open Source разработки](/best-practices/os-antipatterns.md);
+- [Советы по популяризации репозитория](/best-practices/tips-for-promoting.md).
 
 ### [Открытый код и наука](/science)
 
@@ -60,6 +61,9 @@
 
 - Open-source meetup №2: [видео](https://aim.club/publications/scientific-open-source-meetup-2-otkrytyj-kod-dlja-ii),
 [презентации](meetups/scios-meetup-2);
+
+- Open-source meetup №3: [видео](https://ods.ai/events/datafestonline2023/live),
+[презентации](meetups/scios-meetup-3);
 
 ### Благодарности
 
