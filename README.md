@@ -29,6 +29,7 @@
 
 - [Организация управления open-source проектом](/best-practices/project-management.md);
 - [Полезные ссылки для авторов open-source библиотек](/best-practices/useful_links.md);
+- [Лучшие практики Open Source разработки](/best-practices/os-best-practices.md);
 - [Советы по работе в Pull Request-ах](/best-practices/pull-requests.md);
 - [Антипаттерны Open Source разработки](/best-practices/os-antipatterns.md);
 - [Советы по популяризации репозитория](/best-practices/tips-for-promoting.md).
