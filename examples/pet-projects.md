@@ -23,6 +23,9 @@
 - [QKD_SimulaQron](https://github.com/MorrisNein/QKD_SimulaQron) - моделирование квантового распределения ключей между узлами квантовой сети.
 Автор - [Пётр Шевченко](https://github.com/MorrisNein).
 
+- [Godot RL](https://github.com/ChernyakKonstantin/godot_rl) - фреймворк, связывающий Python и игровой движок Godot, для обучения алгоритмов Reinforcement Learning в 2D- и 3D-пространстве.
+Автор - [Константин Черняк](https://github.com/ChernyakKonstantin).
+
 Если вы являетесь студентом или работаете в наукоёмкой области и хотите добавить информацию о своих проектах -
 создавайте PR и дополняйте список.
 Список открыт для всех и не ограничивается только ИТМО.
