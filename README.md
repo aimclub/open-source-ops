@@ -41,9 +41,10 @@
 ### [Открытый код в ИТМО и не только](/examples)
 
 - [Репозитории научных подразделений и лабораторий](/examples/academic-repositories.md);
-- [Список репозиториев open-source проектов AIM](/examples/aim-projects.md)
+- [Список репозиториев open-source проектов AIM](/examples/aim-projects.md);
 - [Pet-проекты, связанные с наукой](/examples/pet-projects.md);
-- [Научно-популярные посты о open-source в ИТМО](/examples/itmo-posts.md).
+- [Научно-популярные посты о open-source в ИТМО](/examples/itmo-posts.md);
+- [Хакатоны с open-source трэками](/examples/os-hackathons.md).
 
 ### Чаты и каналы
 
