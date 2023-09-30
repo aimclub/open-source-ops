@@ -5,10 +5,8 @@
 [![Acknowledgement ITMO](badges/ITMO_badge_rus.svg)](https://itmo.ru/)
 [![Acknowledgement SAI](badges/SAI_badge.svg)](https://sai.itmo.ru/)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-![visitors-repo](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faimclub%2Fopen-source-ops&label=Visitors-repo&countColor=%23263759&style=plastic)
-![visitors-site](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Faimclub.github.io%2Fopen-source-ops%2F&label=Visitors-site&countColor=%23263759&style=plastic)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FITMO-NSS-team%2Fopen-source-ops&countColor=%23263759&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FITMO-NSS-team%2Fopen-source-ops)
 [![Mirror](https://camo.githubusercontent.com/9bd7b8c5b418f1364e72110a83629772729b29e8f3393b6c86bff237a6b784f6/68747470733a2f2f62616467656e2e6e65742f62616467652f6769746c61622f6d6972726f722f6f72616e67653f69636f6e3d6769746c6162)](https://gitlab.actcognitive.org/itmo-nss-team/open-source-ops)
-
 
 
 Этот репозиторий создан для хранения различных инструментов, скриптов, инструкций и руководств,
