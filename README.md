@@ -71,6 +71,9 @@
 - Open-source meetup №3: [видео](https://ods.ai/events/datafestonline2023/live),
 [презентации](meetups/scios-meetup-3);
 
+- Open-source meetup №4: [видео](https://www.youtube.com/watch?v=8EbQ8RslGWw),
+[презентации](meetups/scios-meetup-4);
+
 ### Благодарности
 
 Репозиторий и связанные с ним активности финансируются Университетом ИТМО в рамках НИР магистров и аспирантов №622283
