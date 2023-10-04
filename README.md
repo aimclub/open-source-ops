@@ -71,7 +71,7 @@
 - Open-source meetup №3: [видео](https://ods.ai/events/datafestonline2023/live),
 [презентации](meetups/scios-meetup-3);
 
-- Open-source meetup №4: [видео](https://www.youtube.com/watch?v=8EbQ8RslGWw),
+- Open-source meetup №4: [видео](https://aim.club/publications/scientific-open-source-meetup-otkryta-registratsija),
 [презентации](meetups/scios-meetup-4);
 
 ### Благодарности
