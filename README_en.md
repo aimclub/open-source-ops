@@ -66,13 +66,13 @@ External:
 - Open-source meetup №1: [video](https://aim.club/publications/scientific-open-source-meetup),
 [presentations](meetups/scios-meetup-1);
 
-- Open-source meetup №2: [video](https://aim.club/publications/scientific-open-source-meetup-2-open-code-for-ai),
+- Open-source meetup №2: [video](https://aim.club/publications/scientific-open-source-meetup-2-otkrytyj-kod-dlja-ii),
 [presentations](meetups/scios-meetup-2);
 
 - Open-source meetup №3: [video](https://ods.ai/events/datafestonline2023/live),
 [presentations](meetups/scios-meetup-3);
 
-- Open-source meetup №4: [video](https://aim.club/publications/scientific-open-source-meetup-open-registration),
+- Open-source meetup №4: [video](https://aim.club/publications/scientific-open-source-meetup-otkryta-registratsija),
 [presentations](meetups/scios-meetup-4);
 
 ### Acknowledgements
