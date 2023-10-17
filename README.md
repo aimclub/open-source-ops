@@ -55,6 +55,7 @@
 От авторов репозитория:
 
 - [ITMO.Opensource](https://t.me/itmo_opensource) - чат поддержки по созданию open-source проектов;
+- [ITMO.Opensource/eng](https://t.me/itmo_opensource_eng) - англоязычный чат поддержки по созданию open-source проектов;
 - [NSS Lab News](https://t.me/NSS_group) - новости нашей лаборатории.
   
 Внешние:

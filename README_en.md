@@ -54,7 +54,8 @@ All materials are available under the BSD-3 license.
 
 From the authors of the repository:
 
-- [ITMO.Opensource](https://t.me/itmo_opensource) - chat support for creating open-source projects;
+- [ITMO.Opensource/eng](https://t.me/itmo_opensource_eng) - chat support for creating open-source projects;
+- [ITMO.Opensource](https://t.me/itmo_opensource) - chat support for creating open-source projects in Russian;
 - [NSS Lab News](https://t.me/NSS_group) - news from our laboratory.
   
 External:
