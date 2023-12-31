@@ -9,7 +9,6 @@
 [![Language](https://img.shields.io/badge/lang-en-red.svg)](README_en.md)
 [![Mirror](https://camo.githubusercontent.com/9bd7b8c5b418f1364e72110a83629772729b29e8f3393b6c86bff237a6b784f6/68747470733a2f2f62616467656e2e6e65742f62616467652f6769746c61622f6d6972726f722f6f72616e67653f69636f6e3d6769746c6162)](https://gitlab.actcognitive.org/itmo-nss-team/open-source-ops)
 
-
 Этот репозиторий создан для хранения различных инструментов, скриптов, инструкций и руководств,
 которые могут быть полезны при создании проектов с открытым исходным кодом.
 Все материалы доступны под лицензией BSD-3.
@@ -75,6 +74,9 @@
 
 - Open-source meetup №4: [видео](https://aim.club/publications/scientific-open-source-meetup-otkryta-registratsija),
 [презентации](meetups/scios-meetup-4);
+
+- Open-source meetup №5: [видео](https://aim.club/publications/scientific-open-source-meetup-5),
+[презентации](meetups/scios-meetup-5);
 
 ### Благодарности
 
