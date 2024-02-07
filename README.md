@@ -65,18 +65,16 @@
 
 - Open-source meetup №1: [видео](https://aim.club/publications/scientific-open-source-meetup),
 [презентации](meetups/scios-meetup-1);
-
 - Open-source meetup №2: [видео](https://aim.club/publications/scientific-open-source-meetup-2-otkrytyj-kod-dlja-ii),
 [презентации](meetups/scios-meetup-2);
-
 - Open-source meetup №3: [видео](https://ods.ai/events/datafestonline2023/live),
 [презентации](meetups/scios-meetup-3);
-
 - Open-source meetup №4: [видео](https://aim.club/publications/scientific-open-source-meetup-otkryta-registratsija),
 [презентации](meetups/scios-meetup-4);
-
 - Open-source meetup №5: [видео](https://aim.club/publications/scientific-open-source-meetup-5),
 [презентации](meetups/scios-meetup-5);
+- Open-source meetup №6: [видео](https://aim.club/publications/scientific-open-source-meetup-6),
+[презентации](meetups/scios-meetup-6).
 
 ### Благодарности
 
