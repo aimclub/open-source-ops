@@ -62,10 +62,12 @@
 
 ## МФТИ
   
-- [DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - 
-  Библиотека для обучения диалоговых систем и чатботов, разработанная в МФТИ.
+- [DeepPavlov](https://github.com/deeppavlov/) - 
+  Команда разработчиков из МФТИ, разработавшие библиотеку для обучения диалоговых систем и чатботов.
 
-- [SciProgCentre](https://github.com/SciProgCentre/kmath) - 
+  **Ссылка на проект**: [DeepPavlov](https://github.com/deeppavlov/DeepPavlov)
+
+- [SciProgCentre](https://github.com/SciProgCentre/) - 
   Репозиторий МФТИ с различными проектами.
 
   **Примеры проектов**: kmath, plotly.kt, visionforge
