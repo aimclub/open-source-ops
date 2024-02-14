@@ -54,9 +54,13 @@
   
   **Ссылки**: [сайт](http://swarmtronics.com/).
 
+## ВШЭ
+
 - [HSE LAMBDA](https://github.com/HSE-LAMBDA) - 
   Лаборатория анализа больших данных Высшей Школы Экономики.
   **Примеры проектов**: hsemotion, roerich, probaforms
+
+## МФТИ
   
 - [DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - 
   Библиотека для обучения диалоговых систем и чатботов, разработанная в МФТИ.
@@ -68,12 +72,16 @@
 
   **Ссылки**: [сайт](https://sciprog.center/), [linkedin](https://www.linkedin.com/company/sciprogcentre) [email](mailto:code@sciprog.center).
 
+## AIRI
+
 - [AIRI](https://github.com/AIRI-Institute)
   Репозиторий с проектами научно-исследовательского института искусственного интеллекта AIRI.
 
   **Примеры проектов**: pogema, ai_toolbox, eco4cast
   
   **Ссылки**: [сайт](https://airi.net/)
+
+## Сколтех
 
 - Сколтех - 
   Новые официальные репозитории старых проектов сколтеха.
