@@ -54,5 +54,42 @@
   
   **Ссылки**: [сайт](http://swarmtronics.com/).
 
+## ВШЭ
+
+- [HSE LAMBDA](https://github.com/HSE-LAMBDA) - 
+  Лаборатория анализа больших данных Высшей Школы Экономики.
+  **Примеры проектов**: hsemotion, roerich, probaforms
+
+## МФТИ
+  
+- [DeepPavlov](https://github.com/deeppavlov/) - 
+  Команда разработчиков из МФТИ, разработавшие библиотеку для обучения диалоговых систем и чатботов.
+
+  **Ссылка на проект**: [DeepPavlov](https://github.com/deeppavlov/DeepPavlov)
+
+- [SciProgCentre](https://github.com/SciProgCentre/) - 
+  Репозиторий МФТИ с различными проектами.
+
+  **Примеры проектов**: kmath, plotly.kt, visionforge
+
+  **Ссылки**: [сайт](https://sciprog.center/), [linkedin](https://www.linkedin.com/company/sciprogcentre) [email](mailto:code@sciprog.center).
+
+## AIRI
+
+- [AIRI](https://github.com/AIRI-Institute)
+  Репозиторий с проектами научно-исследовательского института искусственного интеллекта AIRI.
+
+  **Примеры проектов**: pogema, ai_toolbox, eco4cast
+  
+  **Ссылки**: [сайт](https://airi.net/)
+
+## Сколтех
+
+- Сколтех - 
+  Новые официальные репозитории старых проектов сколтеха.
+
+  **Репозитории**: [TT-Toolbox](https://github.com/oseledets/ttpy), [h2tools](https://bitbucket.org/muxas/h2tools/src/master/)
+
+
 Если вы хотите добавить информацию об открытых разработках своей лаборатории или подразделения, то создавайте PR и дополняйте список.
 Список открыт для всех и не ограничивается только ИТМО.
