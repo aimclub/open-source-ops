@@ -16,6 +16,9 @@
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - 
 База данных с открытым исходным кодом
 
+- [Yandex Research](https://github.com/orgs/yandex-research/) -
+Репозиторий с имплементациями статей Yandex Research
+
 ## Tinkoff
 
 - [etna](https://github.com/etna-team/etna) - 
