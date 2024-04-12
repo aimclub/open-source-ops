@@ -76,7 +76,9 @@
 - Open-source meetup №5: [видео](https://aim.club/publications/scientific-open-source-meetup-5),
 [презентации](meetups/scios-meetup-5);
 - Open-source meetup №6: [видео](https://aim.club/publications/scientific-open-source-meetup-6),
-[презентации](meetups/scios-meetup-6).
+[презентации](meetups/scios-meetup-6);
+- Open-source meetup №7: [видео](https://aim.club/publications/online-scientific-open-source-meetup-7),
+[презентации](meetups/scios-meetup-7).
 
 ### Благодарности
 
