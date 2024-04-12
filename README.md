@@ -6,8 +6,8 @@
 [![Acknowledgement SAI](badges/SAI_badge.svg)](https://sai.itmo.ru/)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Faimclub%2Fopen-source-ops&countColor=%23263759&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faimclub%2Fopen-source-ops)
-[![Mirror](https://camo.githubusercontent.com/9bd7b8c5b418f1364e72110a83629772729b29e8f3393b6c86bff237a6b784f6/68747470733a2f2f62616467656e2e6e65742f62616467652f6769746c61622f6d6972726f722f6f72616e67653f69636f6e3d6769746c6162)](https://gitlab.actcognitive.org/itmo-nss-team/open-source-ops)
-
+[![Language](https://img.shields.io/badge/lang-en-red.svg)](README_en.md)
+[![Mirror](https://img.shields.io/badge/mirror-GitLab-orange)](https://gitlab.actcognitive.org/itmo-nss-team/open-source-ops)
 
 Этот репозиторий создан для хранения различных инструментов, скриптов, инструкций и руководств,
 которые могут быть полезны при создании проектов с открытым исходным кодом.
@@ -44,6 +44,7 @@
 ### [Открытый код в ИТМО и не только](/examples)
 
 - [Репозитории научных подразделений и лабораторий](/examples/academic-repositories.md);
+- [Репозитории открытых проектов коммерческих компаний](/examples/commercial-os-projects.md);
 - [Список репозиториев open-source проектов AIM](/examples/aim-projects.md);
 - [Pet-проекты, связанные с наукой](/examples/pet-projects.md);
 - [Научно-популярные посты о open-source в ИТМО](/examples/itmo-posts.md);
@@ -54,32 +55,36 @@
 От авторов репозитория:
 
 - [ITMO.Opensource](https://t.me/itmo_opensource) - чат поддержки по созданию open-source проектов;
+- [ITMO.Opensource/eng](https://t.me/itmo_opensource_eng) - англоязычный чат поддержки по созданию open-source проектов;
 - [NSS Lab News](https://t.me/NSS_group) - новости нашей лаборатории.
   
 Внешние:
 
 - [Open Source Россия](https://t.me/OpenSourceRu) - крупный канал про открытый код.
+- [SPC](https://t.me/SciProgCentre) - канал Центра Научного программирования МФТИ.
 
 ### Выступления и мастер-классы
 
 - Open-source meetup №1: [видео](https://aim.club/publications/scientific-open-source-meetup),
 [презентации](meetups/scios-meetup-1);
-
 - Open-source meetup №2: [видео](https://aim.club/publications/scientific-open-source-meetup-2-otkrytyj-kod-dlja-ii),
 [презентации](meetups/scios-meetup-2);
-
 - Open-source meetup №3: [видео](https://ods.ai/events/datafestonline2023/live),
 [презентации](meetups/scios-meetup-3);
-
 - Open-source meetup №4: [видео](https://aim.club/publications/scientific-open-source-meetup-otkryta-registratsija),
 [презентации](meetups/scios-meetup-4);
+- Open-source meetup №5: [видео](https://aim.club/publications/scientific-open-source-meetup-5),
+[презентации](meetups/scios-meetup-5);
+- Open-source meetup №6: [видео](https://aim.club/publications/scientific-open-source-meetup-6),
+[презентации](meetups/scios-meetup-6).
 
 ### Благодарности
 
-Репозиторий и связанные с ним активности финансируются Университетом ИТМО в рамках НИР магистров и аспирантов №622283
-"Технологии обеспечения качества научных проектов с открытым исходным кодом" (2022-2023).
+Репозиторий и связанные с ним активности финансируются Университетом ИТМО в рамках НИР магистров и аспирантов №623089
+"Технологии повышения практической применимости и взаимной интеграции научных проектов с открытым исходным кодом​" (2023-2024).
 
 ### См. также
 
 - [aimclub](https://github.com/aimclub) - библиотеки и фреймворки в области AI/ML;
-- [ITMO-NSS-team](https://github.com/ITMO-NSS-team) - открытый код, связанный с научными разработками нашей лаборатории.
+- [ITMO-NSS-team](https://github.com/ITMO-NSS-team) - открытый код, связанный с научными разработками нашей лаборатории;
+- [itmo-ai](https://github.com/itmo-ai) - открытые ИИ-мероприятия ИТМО.
