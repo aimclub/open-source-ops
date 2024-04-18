@@ -22,4 +22,4 @@
 
 [Структурное обучение композитных вероятностных моделей](OS_Shahkyan_Structural_Learning.pdf) - Каринэ Шахкян
 
-Запись трансляции доступна по [ссылке](https://www.youtube.com/watch?v=5srjzbyjo_c)
+Запись трансляции доступна по [ссылке](https://www.youtube.com/watch?v=H-YqlyIClk0)
