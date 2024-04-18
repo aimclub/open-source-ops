@@ -13,3 +13,5 @@
 [Обзор open source решения для прикладного использования байесовских сетей](./OS_Kovalev_BayesianNetworksOverview.pdf) - Никита Ковалев
 
 [Научный Open Source в России: состояние и тенденции](./OS_Kaminski_RuScientificOSTrendsAndStatus.pdf) - Юрий Каминский
+
+Запись трансляции митапа доступна по [ссылке](https://www.youtube.com/watch?v=5srjzbyjo_c).
