@@ -90,10 +90,10 @@
 
   **Репозитории**: [TT-Toolbox](https://github.com/oseledets/ttpy), [h2tools](https://bitbucket.org/muxas/h2tools/src/master/)
 
-## ISP RAS 
+## ИСП РАН
 
 - [ISP RAS](https://github.com/ispras)
-  Репозиторий с проектами института системного программирования им. В.П. Иванникова РАН.
+  Репозиторий с проектами Института системного программирования им. В.П. Иванникова РАН.
   **Примеры проектов**: casr, llv8, dedoc, web-scraper-chrome-extension
   
   **Ссылки**: [сайт](https://www.ispras.ru/)
