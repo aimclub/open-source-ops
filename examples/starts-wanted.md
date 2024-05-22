@@ -10,11 +10,11 @@
 Порог для включения в таблицу - уже иметь в наличии 75+ звезд, последняя активность в репозитории - не далее 3-х месяцев.
 
 
-|   Название  |                  Ссылки                  | Авторы                  |                                              Описание                                              |                                Stars                                |
-|:-----------:|:----------------------------------------:|-------------------------|:--------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| LightAutoML | https://github.com/sb-ai-lab/LightAutoML | Alexander Ryzhkov et al | AutoML фреймворк для решения задач бинарной классификации, многоклассовой классификации и регресии | ![LightAutoML](https://img.shields.io/github/sb-ai-lab/LightAutoML) |
-|    FEDOT    |     https://github.com/aimclub/FEDOT     | Nikolay Nikitin et al   |      AutoML фреймворк для решения задач автоматизированного моделирования и машинного обучения     |    ![FEDOT](https://img.shields.io/github/aimclub/FEDOT)    |
-|     BAMT    |      https://github.com/aimclub/BAMT     | Irina Deeva et al       |              Фреймворк для анализа и моделирования данных с помощью Байесовских сетей              |    ![BAMT](https://img.shields.io/github/aimclub/BAMT)     |
+|   Название  |                  Ссылки                  | Авторы                  |                                              Описание                                              |                                   Stars                                   |
+|:-----------:|:----------------------------------------:|-------------------------|:--------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| LightAutoML | https://github.com/sb-ai-lab/LightAutoML | Alexander Ryzhkov et al | AutoML фреймворк для решения задач бинарной классификации, многоклассовой классификации и регресии | ![LightAutoML](https://img.shields.io/github/stars/sb-ai-lab/LightAutoML) |
+|    FEDOT    |     https://github.com/aimclub/FEDOT     | Nikolay Nikitin et al   |      AutoML фреймворк для решения задач автоматизированного моделирования и машинного обучения     |           ![FEDOT](https://img.shields.io/github/stars/aimclub/FEDOT)           |
+|     BAMT    |      https://github.com/aimclub/BAMT     | Irina Deeva et al       |              Фреймворк для анализа и моделирования данных с помощью Байесовских сетей              |            ![BAMT](https://img.shields.io/github/stars/aimclub/BAMT)            |
 
 Добавления в таблицу можно делать через Pull Request. Для каждого обновления будет делаться анонс в нашем [чате](https://t.me/itmo_opensource).
 
