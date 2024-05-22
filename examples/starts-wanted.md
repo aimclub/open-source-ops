@@ -22,5 +22,6 @@
 
 Основные участники инициативы:
 
-- Сообщество [ITMO.OpenSource](https://ods.ai/hubs/opensource_itmo), [Исследовательский центр "Сильный ИИ в промышленности"](https://aim.club/), Университет ИТМО;
+- Сообщество [ITMO.OpenSource](https://ods.ai/hubs/opensource_itmo), [Исследовательский центр "Сильный ИИ в промышленности"](https://aim.club/),
+Университет ИТМО;
 - [Sber AI Lab](https://sberlabs.com/laboratories/sber-ai-lab).
