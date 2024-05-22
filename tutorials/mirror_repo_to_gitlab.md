@@ -41,7 +41,7 @@ on: [push, pull_request, delete]
 
 jobs:
   call-nss-ops-mirror-workflow:
-    uses: ITMO-NSS-team/open-source-ops/.github/workflows/mirror-repo.yml@master
+    uses: aimclub/open-source-ops/.github/workflows/mirror-repo.yml@master
     with:
       GITLAB_URL: '<gitlab_repo_web_URL>'
     secrets:
@@ -51,7 +51,7 @@ jobs:
 
 - Не забудьте подставить нужное значение в `GITLAB_URL`.
 
-- Параметр `uses: ITMO-NSS-team/NSS-Ops/.github/workflows/mirror-repo.yml@master` менять НЕ надо.
+- Параметр `uses: aimclub/open-source-ops/.github/workflows/mirror-repo.yml@master` менять НЕ надо.
 
 Каждый push в репозиторий будет автоматически запускать этот action. Все commit-ы и ветки будут синхронизованы автоматически.
 PR-ы, issue и wiki НЕ будут синхронизированы.

@@ -76,6 +76,15 @@ External:
 - Open-source meetup №4: [video](https://aim.club/publications/scientific-open-source-meetup-otkryta-registratsija),
 [presentations](meetups/scios-meetup-4);
 
+- Open-source meetup №5: [video](https://aim.club/publications/scientific-open-source-meetup-5),
+[presentations](meetups/scios-meetup-5);
+
+- Open-source meetup №6: [video](https://aim.club/publications/scientific-open-source-meetup-6),
+[presentations](meetups/scios-meetup-6);
+
+- Open-source meetup №7: [video](https://aim.club/publications/online-scientific-open-source-meetup-7),
+[presentations](meetups/scios-meetup-7).
+
 ### Acknowledgements
 
 The repository and related activities are funded by ITMO University as part of the master's and postgraduate research work №622283
