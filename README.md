@@ -13,7 +13,7 @@
 которые могут быть полезны при создании проектов с открытым исходным кодом.
 Все материалы доступны под лицензией BSD-3.
 
-- Мы на ODS - [ITMO.Opensource](https://ods.ai/hubs/opensource_itmo)
+- Мы на ODS - [ITMO.Opensource](https://ods.ai/hubs/opensource_itmo);
 - Инициатива [STARS WANTED](./examples/starts-wanted.md).
 
 ## Основные разделы

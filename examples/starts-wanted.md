@@ -12,9 +12,9 @@
 
 |   Название  |                  Ссылки                  | Авторы                  |                                              Описание                                              |                                   Stars                                   |
 |:-----------:|:----------------------------------------:|-------------------------|:--------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
-| LightAutoML | https://github.com/sb-ai-lab/LightAutoML | Alexander Ryzhkov et al | AutoML фреймворк для решения задач бинарной классификации, многоклассовой классификации и регресии | ![LightAutoML](https://img.shields.io/github/stars/sb-ai-lab/LightAutoML) |
-|    FEDOT    |     https://github.com/aimclub/FEDOT     | Nikolay Nikitin et al   |      AutoML фреймворк для решения задач автоматизированного моделирования и машинного обучения     |           ![FEDOT](https://img.shields.io/github/stars/aimclub/FEDOT)           |
-|     BAMT    |      https://github.com/aimclub/BAMT     | Irina Deeva et al       |              Фреймворк для анализа и моделирования данных с помощью Байесовских сетей              |            ![BAMT](https://img.shields.io/github/stars/aimclub/BAMT)            |
+| LightAutoML | https://github.com/sb-ai-lab/LightAutoML | Alexander Ryzhkov et al | AutoML фреймворк для решения задач бинарной классификации, многоклассовой классификации и регресии | ![LightAutoML](https://img.shields.io/github/stars/sb-ai-lab/LightAutoML?style=for-the-badge&logoSize=auto) |
+|    FEDOT    |     https://github.com/aimclub/FEDOT     | Nikolay Nikitin et al   |      AutoML фреймворк для решения задач автоматизированного моделирования и машинного обучения     |   ![FEDOT](https://img.shields.io/github/stars/aimclub/FEDOT?style=for-the-badge&logoSize=auto)             |
+|     BAMT    |      https://github.com/aimclub/BAMT     | Irina Deeva et al       |              Фреймворк для анализа и моделирования данных с помощью Байесовских сетей              |         ![BAMT](https://img.shields.io/github/stars/aimclub/BAMT?style=for-the-badge&logoSize=auto)         |
 
 Добавления в таблицу можно делать через Pull Request. Для каждого обновления будет делаться анонс в нашем [чате](https://t.me/itmo_opensource).
 
