@@ -14,7 +14,7 @@
 Все материалы доступны под лицензией BSD-3.
 
 - Мы на ODS - [ITMO.Opensource](https://ods.ai/hubs/opensource_itmo);
-- Инициатива [STARS WANTED](./examples/starts-wanted.md).
+- Инициатива [STARS WANTED](initiatives/starts-wanted.md).
 
 ## Основные разделы
 
