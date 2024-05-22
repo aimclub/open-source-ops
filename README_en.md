@@ -14,6 +14,9 @@ This repository is created to store various tools, scripts, instructions, and gu
 which can be useful when creating open-source projects.
 All materials are available under the BSD-3 license.
 
+- Our Open Data Science Hub - [ITMO.Opensource](https://ods.ai/hubs/opensource_itmo);
+- Initiative [STARS WANTED](./examples/starts-wanted.md).
+
 ## Main Sections
 
 ### [Instructions](/tutorials)
