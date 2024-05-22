@@ -15,7 +15,7 @@ which can be useful when creating open-source projects.
 All materials are available under the BSD-3 license.
 
 - Our Open Data Science Hub - [ITMO.Opensource](https://ods.ai/hubs/opensource_itmo);
-- Initiative [Awesome Open-source to Try](initiatives/awesome-open-source-to-try.md).
+- Initiative [Awesome Open-Source to Try](initiatives/awesome-open-source-to-try.md).
 
 ## Main Sections
 

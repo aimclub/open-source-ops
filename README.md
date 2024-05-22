@@ -14,7 +14,7 @@
 Все материалы доступны под лицензией BSD-3.
 
 - Мы на ODS - [ITMO.Opensource](https://ods.ai/hubs/opensource_itmo);
-- Инициатива [Awesome Open-source to Try](initiatives/awesome-open-source-to-try.md).
+- Инициатива [Awesome Open-Source to Try](initiatives/awesome-open-source-to-try.md).
 
 ## Основные разделы
 
