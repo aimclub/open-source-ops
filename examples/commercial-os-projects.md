@@ -33,7 +33,7 @@
 ## SBER
 
 - [LightAutoML](https://github.com/sb-ai-lab/LightAutoML) - 
-Фреймфорк для автоматического машинного обучения
+Фреймворк для автоматического машинного обучения
 
 - [AutoWoE](https://github.com/sb-ai-lab/AutoMLWhitebox) - 
 Фреймворк для построения интерпретируемых моделей машинного обучения
