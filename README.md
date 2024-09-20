@@ -85,6 +85,7 @@
 [презентации](meetups/scios-meetup-6);
 - Open-source meetup №7: [видео](https://aim.club/publications/online-scientific-open-source-meetup-7),
 [презентации](meetups/scios-meetup-7).
+- Разборка кода №1: [видео](https://www.youtube.com/watch?v=DABVScO7Gk8).
 
 ### Благодарности
 
