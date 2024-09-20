@@ -13,8 +13,9 @@
 которые могут быть полезны при создании проектов с открытым исходным кодом.
 Все материалы доступны под лицензией BSD-3.
 
-- Мы на ODS - [ITMO.Opensource](https://ods.ai/hubs/opensource_itmo);
+- Мы на ODS - [ITMO Opensource](https://ods.ai/hubs/opensource_itmo);
 - Инициатива [Awesome Open-Source to Try](initiatives/awesome-open-source-to-try.md).
+- Наше [исследование](https://opensource.itmo.ru) ML/Data-опенсорса в России.
 
 ## Основные разделы
 
@@ -57,14 +58,16 @@
 
 От авторов репозитория:
 
-- [ITMO.Opensource](https://t.me/itmo_opensource) - чат поддержки по созданию open-source проектов;
-- [ITMO.Opensource/eng](https://t.me/itmo_opensource_eng) - англоязычный чат поддержки по созданию open-source проектов;
+- [Научный опенсорс](https://t.me/scientific_opensource) - канал с новостями нашего сообщества и области научного open-source в целом;
+- [ITMO.Opensource](https://t.me/itmo_opensource) - чат сообщества ITMO Opensource;
+- [ITMO.Opensource/eng](https://t.me/itmo_opensource_eng) - англоязычный вариант чата для иностранных коллег;
 - [NSS Lab News](https://t.me/NSS_group) - новости нашей лаборатории.
   
 Внешние:
 
-- [Open Source Россия](https://t.me/OpenSourceRu) - крупный канал про открытый код.
 - [SPC](https://t.me/SciProgCentre) - канал Центра Научного программирования МФТИ.
+- [Открытый код ФКН ВШЭ](https://t.me/SciProgCentre) - канал новостей по открытому коду от ФКН ВШЭ.
+- Open Source Россия](https://t.me/OpenSourceRu) - крупный чат про открытый код в целом.
 
 ### Выступления и мастер-классы
 
