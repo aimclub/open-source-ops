@@ -13,8 +13,9 @@
 которые могут быть полезны при создании проектов с открытым исходным кодом.
 Все материалы доступны под лицензией BSD-3.
 
-- Мы на ODS - [ITMO.Opensource](https://ods.ai/hubs/opensource_itmo);
+- Мы на ODS - [ITMO Opensource](https://ods.ai/hubs/opensource_itmo);
 - Инициатива [Awesome Open-Source to Try](initiatives/awesome-open-source-to-try.md).
+- Наше [исследование](https://opensource.itmo.ru) ML/Data-опенсорса в России.
 
 ## Основные разделы
 
@@ -57,14 +58,16 @@
 
 От авторов репозитория:
 
-- [ITMO.Opensource](https://t.me/itmo_opensource) - чат поддержки по созданию open-source проектов;
-- [ITMO.Opensource/eng](https://t.me/itmo_opensource_eng) - англоязычный чат поддержки по созданию open-source проектов;
+- [Научный опенсорс](https://t.me/scientific_opensource) - канал с новостями нашего сообщества и области научного open-source в целом;
+- [ITMO.Opensource](https://t.me/itmo_opensource) - чат сообщества ITMO Opensource;
+- [ITMO.Opensource/eng](https://t.me/itmo_opensource_eng) - англоязычный вариант чата для иностранных коллег;
 - [NSS Lab News](https://t.me/NSS_group) - новости нашей лаборатории.
   
 Внешние:
 
-- [Open Source Россия](https://t.me/OpenSourceRu) - крупный канал про открытый код.
 - [SPC](https://t.me/SciProgCentre) - канал Центра Научного программирования МФТИ.
+- [Открытый код ФКН ВШЭ](https://t.me/SciProgCentre) - канал новостей по открытому коду от ФКН ВШЭ.
+- Open Source Россия](https://t.me/OpenSourceRu) - крупный чат про открытый код в целом.
 
 ### Выступления и мастер-классы
 
@@ -82,14 +85,15 @@
 [презентации](meetups/scios-meetup-6);
 - Open-source meetup №7: [видео](https://aim.club/publications/online-scientific-open-source-meetup-7),
 [презентации](meetups/scios-meetup-7).
+- Разборка кода №1: [видео](https://www.youtube.com/watch?v=DABVScO7Gk8).
 
 ### Благодарности
 
 Репозиторий и связанные с ним активности финансируются Университетом ИТМО в рамках НИР магистров и аспирантов №623089
-"Технологии повышения практической применимости и взаимной интеграции научных проектов с открытым исходным кодом​" (2023-2024).
+"Технологии повышения практической применимости и взаимной интеграции научных проектов с открытым исходным кодом" (2023-2024).
 
 ### См. также
 
-- [aimclub](https://github.com/aimclub) - библиотеки и фреймворки в области AI/ML;
+- [aimclub](https://github.com/aimclub) - библиотеки и фреймворки ИТМО в области AI/ML;
 - [ITMO-NSS-team](https://github.com/ITMO-NSS-team) - открытый код, связанный с научными разработками нашей лаборатории;
-- [itmo-ai](https://github.com/itmo-ai) - открытые ИИ-мероприятия ИТМО.
+- [itmo-ai](https://github.com/itmo-ai) - открытые ИИ-мероприятия ИТМО, открытые данные и т.д.
