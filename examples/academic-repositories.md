@@ -28,12 +28,19 @@
   
   **Примеры проектов**: sampo, rec4u.
 
-- [CT Lab](https://github.com/ctlab/) -
-  проекты лаборатории компьютерных технологии.
+- [CT Lab](https://github.com/ctlab/) и [CT ITMO](https://github.com/CTLab-ITMO) -
+  проекты лаборатории компьютерных технологий и одноименной учебно-научной лаборатории.
   
-  **Примеры проектов**: fgsea, ITMO_FS, GADMA, metafast.
+  **Примеры проектов**: fgsea, GADMA, metafast, VGLib.
 
-  **Ссылки**: [сайт](https://ctlab.ifmo.ru/), [vk](https://vk.com/itmo.ctlab).
+  **Ссылки**: [tg](https://t.me/ctlab_itmo).
+
+- [AI chem](https://github.com/ctlab/) -
+  проекты центра "ИИ в Химии".
+  
+  **Примеры проектов**: GEMCODE, Nanomaterial_Morphology_Prediction Public.
+
+  **Ссылки**: [сайт](https://ai-chemistry.itmo.ru), [tg](https://t.me/ai_chemistry).
 
 - [BE2RLAB](https://github.com/be2rlab) -
   проекты лаборатории биомехатроники и энергоэффективной робототехники.
@@ -48,11 +55,19 @@
   **Ссылки**: [сайт](http://multi-agent.io/).
 
 - [swarmtronics](https://github.com/swarmtronics) -
-  проекты лаборатории посвящены разработке роботизированных роев, состоящих из простых роботов, способных к самоорганизации и выполнению сложных задач.
+  проекты лаборатории посвящены моделированию роев, состоящих из простых роботов, способных к самоорганизации и выполнению сложных задач.
   
   **Примеры проектов**: AMPy, swarmodroid.pcb, swarmodroid.firmware.
   
   **Ссылки**: [сайт](http://swarmtronics.com/).
+
+- [LISA](https://github.com/LISA-ITMO) -
+  проекты учебно-научной лаборатории LISA.
+  
+  **Примеры проектов**: edylytica.
+
+  **Ссылки**: [vk](https://vk.com/lisa.itmo), [tg](https://t.me/lisaitmo).
+
 
 ## ВШЭ
 
