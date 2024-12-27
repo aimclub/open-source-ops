@@ -24,9 +24,11 @@
 - [С чего начать разработку open-source библиотеки](/tutorials/quick_guide.md);
 - [Зеркалирование GitHub -> GitLab](/tutorials/mirror_repo_to_gitlab.md);
 - [Мультиязычные README](/tutorials/create_multilang_readme_files.md);
-- [Создание документации (rst)](/tutorials/documentation_rtd);
+- [Создание документации (mkdocs)](/tutorials/documentation_mkdocs.md);
+- [Создание документации (rtd)](/tutorials/documentation_rtd);
 - [Настройка ботов для репозитория](/tutorials/setup_bots.md);
-- [Работа с Git](/tutorials/git_flow.md).
+- [Работа с Git](/tutorials/git_flow.md);
+- [Автоформатирование кода (black)](/tutorials/black_autoformatting.md).
 
 ### [Шаблоны](/templates)
 
