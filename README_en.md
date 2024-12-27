@@ -24,7 +24,7 @@ All materials are available under the BSD-3 license.
 - [Getting started with open-source library development](/tutorials/quick_guide.md);
 - [Mirroring GitHub -> GitLab](/tutorials/mirror_repo_to_gitlab.md);
 - [Multilingual READMEs](/tutorials/create_multilang_readme_files.md);
-- [Creating documentation](/tutorials/documentation.md);
+- [Creating documentation](/tutorials/documentation_rtd);
 - [Setting up bots for the repository](/tutorials/setup_bots.md);
 - [Working with Git](/tutorials/git_flow.md).
 

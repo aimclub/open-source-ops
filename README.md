@@ -24,7 +24,7 @@
 - [С чего начать разработку open-source библиотеки](/tutorials/quick_guide.md);
 - [Зеркалирование GitHub -> GitLab](/tutorials/mirror_repo_to_gitlab.md);
 - [Мультиязычные README](/tutorials/create_multilang_readme_files.md);
-- [Создание документации](/tutorials/documentation.md);
+- [Создание документации (rst)](/tutorials/documentation_rtd);
 - [Настройка ботов для репозитория](/tutorials/setup_bots.md);
 - [Работа с Git](/tutorials/git_flow.md).
 
