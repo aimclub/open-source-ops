@@ -181,3 +181,9 @@ mkdocs serve
 
 - [MkDocs](https://www.mkdocs.org/)
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
+
+## Примеры
+
+Такая документация уже используется на одном из проектов лаборатории. Однако работа над проектом еще ведется, поэтому документация пока в начальном виде. Но уже можно посмотреть на интерфейс и некоторые страницы документации.
+
+- [applyBN (WIP)](https://anaxagor.github.io/applyBN/)
