@@ -101,7 +101,7 @@
 ## Сколтех
 
 - Сколтех - 
-  Новые официальные репозитории старых проектов сколтеха.
+  Новые официальные репозитории старых проектов Cколтеха.
 
   **Репозитории**: [TT-Toolbox](https://github.com/oseledets/ttpy), [h2tools](https://bitbucket.org/muxas/h2tools/src/master/)
 
