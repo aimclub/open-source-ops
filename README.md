@@ -69,7 +69,7 @@
 
 - [SPC](https://t.me/SciProgCentre) - канал Центра Научного программирования МФТИ.
 - [Открытый код ФКН ВШЭ](https://t.me/SciProgCentre) - канал новостей по открытому коду от ФКН ВШЭ.
-- Open Source Россия](https://t.me/OpenSourceRu) - крупный чат про открытый код в целом.
+- [Open Source Россия](https://t.me/OpenSourceRu) - крупный чат про открытый код в целом.
 
 ### Выступления и мастер-классы
 
@@ -89,6 +89,8 @@
 [презентации](meetups/scios-meetup-7).
 - Open-source meetup №8: [видео](https://aim.club/publications/scientific-open-source-meetup-8),
 [презентации](meetups/scios-meetup-8).
+- Open-source meetup №9: [видео](https://vkvideo.ru/playlist/-173944682_-2/video-173944682_456239040?pid=173944682),
+[презентации](meetups/scios-meetup-9).
 - Разборка кода №1: [видео](https://www.youtube.com/watch?v=DABVScO7Gk8).
 
 ### Благодарности
