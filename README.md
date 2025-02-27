@@ -14,7 +14,7 @@
 Все материалы доступны под лицензией BSD-3.
 
 - Мы на ODS - [ITMO Opensource](https://ods.ai/hubs/opensource_itmo);
-- Инициатива [Awesome Open-Source to Try](initiatives/awesome-open-source-to-try.md).
+- [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor) - ИИ-помощник для разработки открытого научного кода.
 - Наше [исследование](https://opensource.itmo.ru) ML/Data-опенсорса в России.
 
 ## Основные разделы
