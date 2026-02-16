@@ -1,6 +1,6 @@
 ## Митап "Научный опенсорс №9"
 
-26 февраля прошёл Scientific Open Source Meetup №9.
+26 февраля 2025 года прошёл Scientific Open Source Meetup №9.
 
 ## Программа:
 

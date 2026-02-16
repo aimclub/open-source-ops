@@ -92,6 +92,15 @@
 - Open-source meetup №9: [видео](https://vkvideo.ru/playlist/-173944682_-2/video-173944682_456239040?pid=173944682),
 [презентации](meetups/scios-meetup-9).
 - Разборка кода №1: [видео](https://www.youtube.com/watch?v=DABVScO7Gk8).
+[презентации](meetups/scios-meetup-10).
+- Open-Source трек на ODS Data Fest
+- [презентации](meetups/scios-meetup-11).
+- - Open-source meetup №11: [видео](https://vk.com/itmo_hack?z=video-173944682_456239042)
+[презентации](meetups/scios-meetup-11).
+- Open-source meetup для студентов ИТМО
+[презентации](meetups/scios-meetup-12).
+- Open-source meetup №11: [видео](https://vk.com/itmo_hack?z=video-173944682_456239042)
+[презентации](meetups/scios-meetup-13).
 
 ### Благодарности
 
