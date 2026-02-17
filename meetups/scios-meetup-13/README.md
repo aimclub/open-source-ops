@@ -1,6 +1,6 @@
 ## Митап "Научный опенсорс №11"
 
-26 февраля прошёл Scientific Open Source Meetup №11.
+12.02.2025 прошёл Scientific Open Source Meetup №13.
 
 ## Программа:
 
