@@ -15,7 +15,7 @@
 
 - Мы на ODS - [ITMO Opensource](https://ods.ai/hubs/opensource_itmo);
 - [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor) - ИИ-помощник для разработки открытого научного кода.
-- Наше [исследование](https://opensource.itmo.ru) ML/Data-опенсорса в России.
+- Наш [лендинг](https://opensource.itmo.ru) сообщества ITMO OpenSource.
 
 ## Основные разделы
 
@@ -92,19 +92,18 @@
 - Open-source meetup №9: [видео](https://vkvideo.ru/playlist/-173944682_-2/video-173944682_456239040?pid=173944682),
 [презентации](meetups/scios-meetup-9).
 - Разборка кода №1: [видео](https://www.youtube.com/watch?v=DABVScO7Gk8).
-[презентации](meetups/scios-meetup-10).
 - Open-Source трек на ODS Data Fest:
-[презентации](meetups/scios-meetup-11).
+[презентации](meetups/scios-meetup-10).
 - Open-source meetup №11: [видео](https://vk.com/itmo_hack?z=video-173944682_456239042),
 [презентации](meetups/scios-meetup-11).
-- Open-source meetup для студентов ИТМО
+- Open-source meetup №12 для студентов ИТМО
 [презентации](meetups/scios-meetup-12).
-- Open-source meetup №11: [видео](https://vk.com/itmo_hack?z=video-173944682_456239042),
+- Open-source meetup №13: [видео](https://vk.com/itmo_hack?z=video-173944682_456239042),
 [презентации](meetups/scios-meetup-13).
 
 ### Благодарности
 
-Репозиторий и связанные с ним активности финансируются Университетом ИТМО в рамках НИР магистров и аспирантов №623089
+Репозиторий и связанные с ним активности финансировались Университетом ИТМО в рамках НИР магистров и аспирантов №623089
 "Технологии повышения практической применимости и взаимной интеграции научных проектов с открытым исходным кодом" (2023-2024).
 
 ### См. также
