@@ -15,7 +15,6 @@ which can be useful when creating open-source projects.
 All materials are available under the BSD-3 license.
 
 - Our Open Data Science Hub - [ITMO.Opensource](https://ods.ai/hubs/opensource_itmo);
-- Initiative [Awesome Open-Source to Try](initiatives/awesome-open-source-to-try.md).
 
 ## Main Sections
 
@@ -67,30 +66,12 @@ External:
 
 ### Presentations and Masterclasses
 
-- Open-source meetup №1: [video](https://aim.club/publications/scientific-open-source-meetup),
-[presentations](meetups/scios-meetup-1);
+All meetups are descirbed in [folder](meetups);
 
-- Open-source meetup №2: [video](https://aim.club/publications/scientific-open-source-meetup-2-otkrytyj-kod-dlja-ii),
-[presentations](meetups/scios-meetup-2);
-
-- Open-source meetup №3: [video](https://ods.ai/events/datafestonline2023/live),
-[presentations](meetups/scios-meetup-3);
-
-- Open-source meetup №4: [video](https://aim.club/publications/scientific-open-source-meetup-otkryta-registratsija),
-[presentations](meetups/scios-meetup-4);
-
-- Open-source meetup №5: [video](https://aim.club/publications/scientific-open-source-meetup-5),
-[presentations](meetups/scios-meetup-5);
-
-- Open-source meetup №6: [video](https://aim.club/publications/scientific-open-source-meetup-6),
-[presentations](meetups/scios-meetup-6);
-
-- Open-source meetup №7: [video](https://aim.club/publications/online-scientific-open-source-meetup-7),
-[presentations](meetups/scios-meetup-7).
 
 ### Acknowledgements
 
-The repository and related activities are funded by ITMO University as part of the master's and postgraduate research work №622283
+The repository and related activities was funded by ITMO University as part of the master's and postgraduate research work №622283
 "Quality assurance technologies for open source scientific projects" (2022-2023).
 
 ### See Also
