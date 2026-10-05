@@ -14,7 +14,7 @@ All materials are available under the BSD-3 license.
 
 - We are on ODS - [ITMO Opensource](https://ods.ai/hubs/opensource_itmo);
 - [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor) - an AI assistant for developing open-source scientific software.
-- [OSA.Edu](https://github.com/ITMO-NSS-team/OSA.Edu) - an AI platform for checking whether technical claims in a project report are supported by its implementation.
+- [OSA.Edu](https://github.com/ITMO-NSS-team/OSA.Edu) - an AI platform for reviewing student projects, covering report-code consistency, repository quality, thesis checks, literature verification, Shalyto rules, and formal norm control.
 - Our community's [landing page](https://opensource.itmo.ru) for ITMO OpenSource.
 
 ## Main Sections
@@ -29,7 +29,7 @@ All materials are available under the BSD-3 license.
 - [Setting up repository bots](/tutorials/setup_bots.md);
 - [Working with Git](/tutorials/git_flow.md);
 - [Automatic code formatting (black)](/tutorials/black_autoformatting.md);
-- [Student Project Implementation Guide](https://github.com/Industrial-AI-Research-Lab/project-implementation-manual) - recommendations for planning and implementing student projects.
+- [Student Project Implementation Guide](https://github.com/Industrial-AI-Research-Lab/project-implementation-manual).
 
 ### [Templates](/templates)
 
