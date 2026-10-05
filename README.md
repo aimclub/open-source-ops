@@ -15,6 +15,7 @@
 
 - Мы на ODS - [ITMO Opensource](https://ods.ai/hubs/opensource_itmo);
 - [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor) - ИИ-помощник для разработки открытого научного кода.
+- [OSA.Edu](https://github.com/ITMO-NSS-team/OSA.Edu) - ИИ-платформа для анализа студенческих проектов: проверка соответствия отчёта коду, качества репозитория, ВКР и списка литературы, а также правил Шалыто и требований нормоконтроля.
 - Наш [лендинг](https://opensource.itmo.ru) сообщества ITMO OpenSource.
 
 ## Основные разделы
@@ -28,11 +29,14 @@
 - [Создание документации (rtd)](/tutorials/documentation_rtd);
 - [Настройка ботов для репозитория](/tutorials/setup_bots.md);
 - [Работа с Git](/tutorials/git_flow.md);
-- [Автоформатирование кода (black)](/tutorials/black_autoformatting.md).
+- [Автоформатирование кода (black)](/tutorials/black_autoformatting.md);
+- [Руководство по реализации студенческих проектов](https://github.com/Industrial-AI-Research-Lab/project-implementation-manual).
 
 ### [Шаблоны](/templates)
 
-- [Типовый шаблон README для open-source проектов](templates/template_README.md) (Версия в [RST](templates/template_README.rst) формате).
+- [Типовый шаблон README для open-source проектов](templates/template_README.md) (версия в [RST](templates/template_README.rst) формате);
+- [Шаблон проекта НИР](https://github.com/Industrial-AI-Research-Lab/nir-project-template/tree/main);
+- [Шаблон NIR agent overlay](https://github.com/Industrial-AI-Research-Lab/nir-agent-overlay/tree/main).
 
 ### [Лучшие практики и примеры](/best-practices)
 
