@@ -15,7 +15,6 @@ All materials are available under the BSD-3 license.
 - We are on ODS - [ITMO Opensource](https://ods.ai/hubs/opensource_itmo);
 - [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor) - an AI assistant for developing open-source scientific software.
 - [OSA.Edu](https://github.com/ITMO-NSS-team/OSA.Edu) - an AI platform for checking whether technical claims in a project report are supported by its implementation.
-- [Student Project Implementation Guide](https://github.com/Industrial-AI-Research-Lab/project-implementation-manual) - recommendations for planning and implementing student projects.
 - Our community's [landing page](https://opensource.itmo.ru) for ITMO OpenSource.
 
 ## Main Sections
@@ -29,11 +28,14 @@ All materials are available under the BSD-3 license.
 - [Creating documentation (rtd)](/tutorials/documentation_rtd);
 - [Setting up repository bots](/tutorials/setup_bots.md);
 - [Working with Git](/tutorials/git_flow.md);
-- [Automatic code formatting (black)](/tutorials/black_autoformatting.md).
+- [Automatic code formatting (black)](/tutorials/black_autoformatting.md);
+- [Student Project Implementation Guide](https://github.com/Industrial-AI-Research-Lab/project-implementation-manual) - recommendations for planning and implementing student projects.
 
 ### [Templates](/templates)
 
-- [Standard README template for open-source projects](templates/template_README.md) (version in [RST](templates/template_README.rst) format).
+- [Standard README template for open-source projects](templates/template_README.md) (version in [RST](templates/template_README.rst) format);
+- [NIR project template](https://github.com/Industrial-AI-Research-Lab/nir-project-template/tree/main);
+- [NIR agent overlay template](https://github.com/Industrial-AI-Research-Lab/nir-agent-overlay/tree/main).
 
 ### [Best Practices and Examples](/best-practices)
 
