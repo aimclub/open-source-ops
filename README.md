@@ -106,8 +106,7 @@
 [презентации](meetups/scios-meetup-13).
 - Open-Source трек на ODS Data Fest 2026:
 [презентации](meetups/scios-meetup-14).
-- Open-source meetup №15: [видео](https://vk.ru/live-173944682_456239043),
-[презентации](meetups/scios-meetup-15).
+- Open-source meetup №15: [презентации](meetups/scios-meetup-15).
 
 ### Благодарности
 
