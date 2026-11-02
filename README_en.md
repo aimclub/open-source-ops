@@ -91,7 +91,7 @@ External:
 - Open-source meetup #12 for ITMO students: [presentations](meetups/scios-meetup-12).
 - Open-source meetup #13: [video](https://vk.com/itmo_hack?z=video-173944682_456239042), [presentations](meetups/scios-meetup-13).
 - Open-source track at ODS Data Fest 2026: [presentations](meetups/scios-meetup-14).
-- Open-source meetup #15: [presentations](meetups/scios-meetup-15).
+- Open-source meetup #15: [video](https://vkvideo.ru/live-173944682_456239043?list=f683753a6979f3dded), [presentations](meetups/scios-meetup-15).
 
 ### Acknowledgements
 
