@@ -104,6 +104,10 @@
 [презентации](meetups/scios-meetup-12).
 - Open-source meetup №13: [видео](https://vk.com/itmo_hack?z=video-173944682_456239042),
 [презентации](meetups/scios-meetup-13).
+- Open-Source трек на ODS Data Fest 2026:
+[презентации](meetups/scios-meetup-14).
+- Open-source meetup №15: [видео](https://vkvideo.ru/live-173944682_456239043?list=f683753a6979f3dded),
+[презентации](meetups/scios-meetup-15).
 
 ### Благодарности
 
