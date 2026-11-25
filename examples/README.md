@@ -4,6 +4,7 @@
 
 - [Открытый код, наука и образование](academic-repositories.md)
 - [Список открытых проектов Института ИИ ИТМО](aim-projects.md)
+- [Обзор открытых научных проектов ИТМО по годам](projects-overview.md)
 - [Pet проекты](pet-projects.md)
 - [Посты о научном открытом ПО](itmo-posts.md)
 
