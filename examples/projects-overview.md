@@ -11,18 +11,12 @@
 
 ## Проекты по годам
 
-Список формируется автоматически по данным базы научного кода ИТМО. Каждый
-репозиторий указан один раз — в разделе, соответствующем году самой ранней
-связанной с ним публикации. Этот год не обязательно совпадает с годом создания
-репозитория. Проекты, для которых год публикации неизвестен, приведены в разделе
-«Без года».
 
-Название проекта ведёт в репозиторий с исходным кодом, а ссылка «статья» —
-к связанной публикации. Если название публикации отсутствует, приводится краткое
-описание проекта, когда оно доступно.
+Название проекта ведёт в репозиторий с исходным кодом, а ссылки «статья» и
+«препринт» — к связанным публикациям.
 
 Перейти к году: [2026](#2026) · [2025](#2025) · [2024](#2024) · [2023](#2023) ·
-[2022](#2022) · [2021](#2021) · [2020](#2020) · [Без года](#без-года).
+[2022](#2022) · [2021](#2021) · [2020](#2020).
 
 <!-- PAUK:PROJECTS:START -->
 
@@ -95,15 +89,18 @@
 
 - [LII_LNA](https://github.com/aleksei-nasonov/lii_lna) — A Concept of LNA with Low Input Impedance Using Common Base BJT for Low-Field MRI ([статья](https://doi.org/10.1109/usbereit65494.2025.11054189)).
 - [talk2data](https://github.com/mohammad-nour-alawad/talk2data) — A Multimodal Conversational Agent for Tabular Data Analysis ([статья](https://doi.org/10.1109/icdmw69685.2025.00052)).
+- [LaserWeldMonitor](https://github.com/ilt-itmo/laserweldmonitor) — Advancing Defect Detection in Laser Welding: A Machine Learning Approach Based on Spatter Feature Analysis ([препринт, 2025](https://doi.org/10.2139/ssrn.5370685); [статья, 2026](https://doi.org/10.3390/s26061825)).
 - [nanoMINER](https://github.com/ai-chem/nanominer) — Agent-based multimodal information extraction for nanomaterials ([статья](https://doi.org/10.1038/s41524-025-01674-7)).
 - [warehouseSimulator](https://github.com/kinnder/warehousesimulator) — Algorithm for human interaction with a model of an industrial cyber-physical system by means of neural interface ([статья](https://doi.org/10.17586/2226-1494-2025-25-4-744-754)).
 - [OSA](https://github.com/aimclub/osa) — An LLM-Powered Tool for Enhancing Scientific Open-Source Repositories.
 - [sha256sat](https://github.com/olegzaikin/sha256sat) — Analysis of the cryptographic strength of the SHA-256 hash function using the SAT approach ([статья](https://doi.org/10.17586/2226-1494-2025-25-3-428-437)).
 - [BandageNG](https://github.com/asl/bandageng) — asl/BandageNG: Release v2025.12.1 ([статья](https://doi.org/10.5281/zenodo.17807364)).
+- [ChemX](https://github.com/ai-chem/chemx) — Benchmarking Agentic Systems in Automated Scientific Information Extraction with ChemX ([препринт](https://arxiv.org/abs/2510.00795)).
 - [CoResearchGraph](https://github.com/aimclub/coresearchgraph) — ChemCoScientist: LLM-Based Multi-Agent Assistant for Automated Solving of Chemical Tasks Using Data-Driven Tools ([статья](https://doi.org/10.1109/icdmw69685.2025.00325)).
 - [chempaperbench](https://github.com/itmo-nss-team/chempaperbench) — ChemPaperBench: A Multi-Domain Benchmark for Literature-Grounded Chemical Reasoning of LLM-Based Multi-Agent Systems ([статья](https://doi.org/10.1109/icdmw69685.2025.00014)).
 - [coffee_PD](https://github.com/senkkon/coffee_pd) — Coffee consumption is associated with later age-at-onset of Parkinson’s disease ([статья](https://doi.org/10.1101/2025.02.07.25321819)).
 - [evo_network_public](https://github.com/alex-andrv/evo_network_public) — Combining greedy and evolutionary algorithms to maximize influence in networks under deterministic linear threshold model ([статья](https://doi.org/10.1371/journal.pone.0331109)).
+- [Drug-Nanoparticle-Synergy](https://github.com/ai-chem/drug-nanoparticle-synergy) — Computer-Aided Discovery of Synergistic Drug–Nanoparticle Combinations for Enhanced Antimicrobial Activity ([статья](https://doi.org/10.1021/acsami.4c21133)).
 - [coresh](https://github.com/alserglab/coresh) — CORESH: a gene signature-based search engine for public gene expression datasets ([статья](https://doi.org/10.1093/nar/gkaf372)).
 - [Multi_agent_system](https://github.com/newpotatato/multi_agent_system) — Decentralized adaptive task allocation for dynamic multi-agent systems ([статья](https://doi.org/10.1038/s41598-025-21709-9)).
 - [L0-optimized_attack_detection](https://github.com/indm3802/l0-optimized_attack_detection) — Detection of L0-optimized attacks via anomaly scores distribution analysis ([статья](https://doi.org/10.17586/2226-1494-2025-25-1-128-139)).
@@ -139,6 +136,9 @@
 - [supplementary-files](https://github.com/swarmtronics/supplementary-files) — Micellization in active matter of asymmetric self-propelled particles: Experiments ([статья](https://doi.org/10.1103/4yzc-ppgy)).
 - [OCRNorm](https://github.com/kerysfel/ocrnorm) — Normalization of Text Recognized by Optical Character Recognition Using Lightweight LLMs ([статья](https://doi.org/10.26907/1562-5419-2025-28-5-1036-1056)).
 - [Optimizing-LLM-Code-Suggestions](https://github.com/mohammad-nour-alawad/optimizing-llm-code-suggestions) — Optimizing LLM Code Suggestions: Feedback-Driven Timing with Lightweight State Bounds ([статья](https://doi.org/10.1109/asew67777.2025.00049)).
+- [OSMa-Bench](https://github.com/be2rlab/osma-bench) — OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions ([препринт](https://arxiv.org/abs/2503.10331)).
+- [MagnetExchangeBias](https://github.com/ai-chem/magnetexchangebias) — Prediction of Exchange Bias for Magnetic Heterostructure Nanoparticles with Machine Learning ([статья](https://doi.org/10.1021/acs.jpcc.4c07028)).
+- [LaserProcessing](https://github.com/ilt-itmo/laserprocessing) — Progress and Perspectives of Physics-Informed Neural Networks for Tribological Applications with Multiphysics Awareness ([статья](https://doi.org/10.17586/2687-0568-2025-7-2-88-104)).
 - [Data-QIMSI](https://github.com/dtsarev-itmo/data-qimsi) — Quantum-inspired modeling of social impact in complex networks with artificial intelligent agents ([статья](https://doi.org/10.1038/s41598-025-22508-y)).
 - [controlvae](https://github.com/kirillzx/controlvae) — Realistic Controlled Time Series Generation with Variational Autoencoder ([статья](https://doi.org/10.1109/icdmw69685.2025.00041)).
 - [RusCode](https://github.com/ai-forever/ruscode) — RusCode: Russian Cultural Code Benchmark for Text-to-Image Generation ([статья](https://doi.org/10.18653/v1/2025.findings-naacl.425)).
@@ -168,10 +168,13 @@
 - [GOLEM](https://github.com/aimclub/golem) — Automated Design of Graph-based Models and Structures using Modular Evolutionary Framework.
 - [benchmarking-dataset](https://github.com/anpolol/benchmarking-dataset) — Benchmarking of Graph Structure Preserving Loss Functions for Unsupervised Node Representation Learning.
 - [GenPlan](https://github.com/flyneot/genplan) — Combined Method of Release Planning in Agile Teams Based on Genetic Algorithms ([статья](https://doi.org/10.17586/2713-1874-2024-4-60-68)).
+- [DESignSolvents](https://github.com/ai-chem/designsolvents) — DESignSolvents: an open platform for the search and prediction of the physicochemical properties of deep eutectic solvents ([статья](https://doi.org/10.1039/D3GC04533A)).
 - [pyVCT-2](https://github.com/tsvelaya/pyvct-2) — Discrete anisotropy model of heterogeneous cardiac tissue predicting the occurrence of symmetry breaking of reentrant activity ([статья](https://doi.org/10.31857/s123456782409012x)).
 - [Exact-multipolar-moments-for-systems-with-axial-symmetry](https://github.com/sag050196/exact-multipolar-moments-for-systems-with-axial-symmetry) — Fast Simulation of Light Scattering and Harmonic Generation in Axially Symmetric Structures in COMSOL ([статья](https://doi.org/10.1021/acsphotonics.3c01166)).
 - [multipole-decomposition-and-second-harmonic-generation-using-2D](https://github.com/sag050196/multipole-decomposition-and-second-harmonic-generation-using-2d) — Fast Simulation of Light Scattering and Harmonic Generation in Axially Symmetric Structures in COMSOL ([статья](https://doi.org/10.1021/acsphotonics.3c01166)).
 - [BAMT](https://github.com/aimclub/bamt) — Flexible and tractable modeling of multivariate data using composite Bayesian networks ([статья](https://doi.org/10.17586/2226-1494-2024-24-4-608-614)).
+- [gsplatloc](https://github.com/be2rlab/gsplatloc) — GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization ([препринт, 2024](https://arxiv.org/abs/2409.16502); IROS 2025).
+- [GEMCODE](https://github.com/ai-chem/gemcode) — Hybrid Generative AI for De Novo Design of Co-Crystals with Enhanced Tabletability ([статья](https://proceedings.neurips.cc/paper_files/paper/2024/hash/99d27a4939a1dfcdde8394b9137bd885-Abstract-Conference.html)).
 - [ascf](https://github.com/ivanmikhailovimcras/ascf) — Impact of solvent quality on tribological properties of polymer brushes ([статья](https://doi.org/10.17586/2226-1494-2024-24-5-751-757)).
 - [OL2A_2023_gd_with_sa_paper](https://github.com/itmo-nss-team/ol2a_2023_gd_with_sa_paper) — Interpretable Structural Analysis for Evolutionary Generative Design of Coastal Breakwaters ([статья](https://doi.org/10.1007/978-3-031-53025-8_13)).
 - [micropm](https://github.com/goncharovaleshka/micropm) — Method of dynamic updating models of the interaction model of parallel processes in embedded systems ([статья](https://doi.org/10.17586/0021-3454-2024-67-9-741-750)).
@@ -190,6 +193,7 @@
 - [fedot.industrial](https://github.com/aimclub/fedot.industrial) — Topological Feature Generation in Automated Machine Learning for Time Series Forecasting.
 - [aaai24_auto_topo](https://github.com/itmo-nss-team/aaai24_auto_topo) — Topological Feature Generation in Automated Machine Learning for Time Series Forecasting.
 - [urban-facilities-provision](https://github.com/ritamargari/urban-facilities-provision) — Towards Urban Accessibility: Modeling Trip Distribution to Assess the Provision of Social Facilities ([статья](https://doi.org/10.3390/smartcities7050106)).
+- [Nanomaterial_Morphology_Prediction](https://github.com/ai-chem/nanomaterial_morphology_prediction) — Unveiling the Potential of AI for Nanomaterial Morphology Prediction ([статья](https://proceedings.mlr.press/v235/dubrovsky24a.html)).
 
 ### 2023
 
@@ -199,6 +203,7 @@
 - [GraphEmbedding-dev](https://github.com/turukmokto/graphembedding-dev) — Convolutional Neural Network Graph-based Embedding for Neural Architecture Search ([статья](https://doi.org/10.1016/j.procs.2023.12.006)).
 - [ValidationBias](https://github.com/artomovlab/validationbias) — Detecting biased validation of predictive models in the positive-unlabeled setting: disease gene prioritization case study ([статья](https://doi.org/10.1093/bioadv/vbad128)).
 - [CEC_2023_knowledge](https://github.com/itmo-nss-team/cec_2023_knowledge) — Directed Differential Equation Discovery Using Modified Mutation and Cross-Over Operators ([статья](https://doi.org/10.1109/cec53210.2023.10254047)).
+- [DiZyme](https://github.com/ai-chem/dizyme) — DiZyme: The Ultimate Resource for Nanozyme Multiple Catalytic Activity Prediction ([препринт](https://doi.org/10.21203/rs.3.rs-3540876/v1)).
 - [DiZyme](https://github.com/acid-design-lab/dizyme) — DiZyme: The Ultimate Resource for Nanozyme Multiple Catalytic Activity Prediction ([статья](https://doi.org/10.21203/rs.3.rs-3540876/v1)).
 - [solver-paper-for-ai4s](https://github.com/itmo-nss-team/solver-paper-for-ai4s) — Easy to learn hard to master - how to solve an arbitrary equation with PINN.
 - [mdbse](https://github.com/drgulevich/mdbse) — Excitonic effects in time-dependent density functional theory from zeros of the density response ([статья](https://doi.org/10.1103/physrevb.107.165118)).
@@ -228,6 +233,7 @@
 - [RUS_BB](https://github.com/artomovlab/rus_bb) — Understanding Complex Trait Susceptibilities and Ethnical Diversity in a Sample of 4,145 Russians Through Analysis of Clinical and Genetic Data ([статья](https://doi.org/10.1101/2023.03.23.534000)).
 - [O-antigen-project](https://github.com/svetaafonnikova/o-antigen-project) — Unique or not unique? Comparative genetic analysis of bacterial O-antigens from the Oxalobacteraceae family ([статья](https://doi.org/10.18699/vjgb-22-98)).
 - [c2](https://github.com/mlkndt/c2) — Why does the first protein repeat often become the only one? ([статья](https://doi.org/10.1016/j.jsb.2023.108014)).
+- [datasets](https://github.com/shtrikh17/datasets) — Критерий безопасности сетевой инфраструктуры ([статья](https://doi.org/10.17586/2226-1494-2023-23-3-530-537)).
 
 ### 2022
 
@@ -250,6 +256,7 @@
 - [oil-field-modelling](https://github.com/itmo-nss-team/oil-field-modelling) — Hybrid and automated machine learning approaches for oil fields development: The case study of Volve field, North Sea ([статья](https://doi.org/10.1016/j.cageo.2022.105061)).
 - [texterrors](https://github.com/ruabraun/texterrors) — Improving out of vocabulary words recognition accuracy for an end-to-end Russian speech recognition system ([статья](https://doi.org/10.17586/2226-1494-2022-22-6-1143-1149)).
 - [Lupa](https://github.com/jetbrains-research/lupa) — Lupa ([статья](https://doi.org/10.1145/3524842.3528477)).
+- [MSDM-SLAM](https://github.com/be2rlab/msdm-slam) — Metric-Semantic Dense Mapping and SLAM system ([первый коммит — 21.01.2022](https://github.com/be2rlab/MSDM-SLAM/commit/078d0f587f2162344a07525d220cc0d56535675e)).
 - [mq-based-schedulers](https://github.com/npostnikova/mq-based-schedulers) — Multi-Queues Can Be State-of-the-Art Priority Schedulers | Artifacts ([статья](https://doi.org/10.5281/zenodo.5815955)).
 - [MACE](https://github.com/mahajrod/mace) — Multiple types of genomic variation contribute to adaptive traits in the mustelid subfamily Guloninae ([статья](https://doi.org/10.1111/mec.16443)).
 - [phantasus](https://github.com/alserglab/phantasus) — Phantasus: web-application for visual and interactive gene expression analysis ([статья](https://doi.org/10.1101/2022.12.10.519861)).
@@ -331,22 +338,6 @@
 - [Swarm-BSP](https://github.com/cyber-chicca/swarm-bsp) — Trustable Environmental Monitoring by Means of Sensors Networks on Swarming Autonomous Marine Vessels and Distributed Ledger Technology ([статья](https://doi.org/10.3389/frobt.2020.00070)).
 - [frontiers-vessel-code](https://github.com/fingerling42/frontiers-vessel-code) — Trustable Environmental Monitoring by Means of Sensors Networks on Swarming Autonomous Marine Vessels and Distributed Ledger Technology ([статья](https://doi.org/10.3389/frobt.2020.00070)).
 - [frontiers-vessel-data-processing](https://github.com/fingerling42/frontiers-vessel-data-processing) — Trustable Environmental Monitoring by Means of Sensors Networks on Swarming Autonomous Marine Vessels and Distributed Ledger Technology ([статья](https://doi.org/10.3389/frobt.2020.00070)).
-
-### Без года
-
-- [ChemX](https://github.com/ai-chem/chemx)
-- [datasets](https://github.com/shtrikh17/datasets) — Several datasets for science and infosec research
-- [DESignSolvents](https://github.com/ai-chem/designsolvents)
-- [DiZyme](https://github.com/ai-chem/dizyme)
-- [Drug-Nanoparticle-Synergy](https://github.com/ai-chem/drug-nanoparticle-synergy)
-- [GEMCODE](https://github.com/ai-chem/gemcode) — код к статье «Hybrid Generative AI for De Novo Design of Co-Crystals with Enhanced Tabletability» (NeurIPS 2024).
-- [gsplatloc](https://github.com/be2rlab/gsplatloc) — \[IROS 2025\] GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization
-- [LaserProcessing](https://github.com/ilt-itmo/laserprocessing) — предсказание результатов лазерной обработки металлов с помощью физически информированных нейронных сетей.
-- [LaserWeldMonitor](https://github.com/ilt-itmo/laserweldmonitor) — This project is aimed at applying data analytics and machine learning techniques to monitoring and control systems for laser welding production processes.
-- [MagnetExchangeBias](https://github.com/ai-chem/magnetexchangebias)
-- [MSDM-SLAM](https://github.com/be2rlab/msdm-slam) — Metric-Semantic Dense Mapping and SLAM system
-- [Nanomaterial_Morphology_Prediction](https://github.com/ai-chem/nanomaterial_morphology_prediction)
-- [OSMa-Bench](https://github.com/be2rlab/osma-bench) — \[IROS 25\] OSMa-Bench: Evaluating Open Semantic Mapping Under Varying Lighting Conditions
 
 <!-- PAUK:PROJECTS:END -->
 
