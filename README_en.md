@@ -55,6 +55,7 @@ All materials are available under the BSD-3 license.
 - [Repositories of scientific divisions and laboratories](/examples/academic-repositories.md);
 - [Repositories of open-source projects by commercial companies](/examples/commercial-os-projects.md);
 - [A list of AIM open-source project repositories](/examples/aim-projects.md);
+- [ITMO open-source research projects by publication year (in Russian)](examples/projects-overview.md);
 - [Science-related pet projects](/examples/pet-projects.md);
 - [Popular science posts about open source at ITMO](/examples/itmo-posts.md);
 - [Hackathons with open-source tracks](/examples/os-hackathons.md).
